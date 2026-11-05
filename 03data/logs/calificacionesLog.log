@@ -1,0 +1,60 @@
+29/05/2026 19:29:40 [Nota] 	Consultadas relaciones para la entidad con id: 88888888H
+29/05/2026 19:29:40 [Nota] 	Vinculos con modulo: select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '88888888H'
+29/05/2026 19:29:40 [Nota] 	Tabla seguidora cargada con 0 resultados
+29/05/2026 19:29:40 [Nota] 	Copiada tabla relaciones elementos: 88888888H
+29/05/2026 19:29:40 [Nota] 	Tabla relacional cargada con 0 resultados
+29/05/2026 19:29:59 [Nota] 	ID 77777777G copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:30:00 [Nota] 	Consultadas relaciones para la entidad con id: 77777777G
+29/05/2026 19:30:00 [Nota] 	Vinculos con modulo: select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '77777777G'
+29/05/2026 19:30:00 [Nota] 	Tabla seguidora cargada con 0 resultados
+29/05/2026 19:30:00 [Nota] 	Copiada tabla relaciones elementos: 77777777G
+29/05/2026 19:30:00 [Nota] 	Tabla relacional cargada con 0 resultados
+29/05/2026 19:30:03 [Nota] 	ID 66666666F copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:30:04 [Nota] 	Consultadas relaciones para la entidad con id: 66666666F
+29/05/2026 19:30:04 [Nota] 	Vinculos con modulo: select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '66666666F'
+29/05/2026 19:30:04 [Nota] 	Tabla seguidora cargada con 3 resultados
+29/05/2026 19:30:04 [Nota] 	ID 107 copiado a txtSeguidora desde la tabla dgvListaSeguidor.
+29/05/2026 19:30:04 [Nota] 	Copiada tabla relaciones elementos: 66666666F
+29/05/2026 19:30:05 [Nota] 	Tabla relacional cargada con 3 resultados
+29/05/2026 19:30:05 [Nota] 	ID 8 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:30:40 [Nota] 	ID 9 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:30:41 [Nota] 	ID 10 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:30:42 [Nota] 	ID 8 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:32:41 [Nota] 	ID 55555555E copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:32:41 [Nota] 	Consultadas relaciones para la entidad con id: 55555555E
+29/05/2026 19:32:41 [Nota] 	Vinculos con modulo: select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '55555555E'
+29/05/2026 19:32:41 [Nota] 	Tabla seguidora cargada con 2 resultados
+29/05/2026 19:32:41 [Nota] 	ID 106 copiado a txtSeguidora desde la tabla dgvListaSeguidor.
+29/05/2026 19:32:41 [Nota] 	Copiada tabla relaciones elementos: 55555555E
+29/05/2026 19:32:42 [Nota] 	Tabla relacional cargada con 2 resultados
+29/05/2026 19:32:42 [Nota] 	ID 11 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:32:49 [Nota] 	ID 44444444D copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:32:50 [Nota] 	Consultadas relaciones para la entidad con id: 44444444D
+29/05/2026 19:32:50 [Nota] 	Vinculos con modulo: select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '44444444D'
+29/05/2026 19:32:50 [Nota] 	Tabla seguidora cargada con 0 resultados
+29/05/2026 19:32:50 [Nota] 	Copiada tabla relaciones elementos: 44444444D
+29/05/2026 19:32:50 [Nota] 	Tabla relacional cargada con 0 resultados
+29/05/2026 19:32:51 [Nota] 	ID 33333333C copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:32:52 [Nota] 	Consultadas relaciones para la entidad con id: 33333333C
+29/05/2026 19:32:52 [Nota] 	Vinculos con modulo: select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '33333333C'
+29/05/2026 19:32:52 [Nota] 	Tabla seguidora cargada con 2 resultados
+29/05/2026 19:32:52 [Nota] 	ID 103 copiado a txtSeguidora desde la tabla dgvListaSeguidor.
+29/05/2026 19:32:52 [Nota] 	Copiada tabla relaciones elementos: 33333333C
+29/05/2026 19:32:52 [Nota] 	Tabla relacional cargada con 2 resultados
+29/05/2026 19:32:52 [Nota] 	ID 6 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:32:58 [Nota] 	ID 22222222B copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:32:59 [Nota] 	Consultadas relaciones para la entidad con id: 22222222B
+29/05/2026 19:32:59 [Nota] 	Vinculos con modulo: select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '22222222B'
+29/05/2026 19:32:59 [Nota] 	Tabla seguidora cargada con 2 resultados
+29/05/2026 19:32:59 [Nota] 	ID 101 copiado a txtSeguidora desde la tabla dgvListaSeguidor.
+29/05/2026 19:32:59 [Nota] 	Copiada tabla relaciones elementos: 22222222B
+29/05/2026 19:32:59 [Nota] 	Tabla relacional cargada con 2 resultados
+29/05/2026 19:32:59 [Nota] 	ID 4 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:33:03 [Nota] 	ID 11111111A copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:33:04 [Nota] 	Consultadas relaciones para la entidad con id: 11111111A
+29/05/2026 19:33:04 [Nota] 	Vinculos con modulo: select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '11111111A'
+29/05/2026 19:33:04 [Nota] 	Tabla seguidora cargada con 3 resultados
+29/05/2026 19:33:04 [Nota] 	ID 101 copiado a txtSeguidora desde la tabla dgvListaSeguidor.
+29/05/2026 19:33:04 [Nota] 	Copiada tabla relaciones elementos: 11111111A
+29/05/2026 19:33:05 [Nota] 	Tabla relacional cargada con 3 resultados
+29/05/2026 19:33:05 [Nota] 	ID 1 copiado a txtRelacion desde la tabla dgvListaRelaciones.

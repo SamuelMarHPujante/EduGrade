@@ -1,0 +1,218 @@
+29/05/2026 19:09:52 [Nota] 	Query en "ConsultarBD": "select * from alumno order by dni" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:09:52 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:09:52 [Nota] 	Registros Modificados: 0
+29/05/2026 19:09:53 [Nota] 	Elemento FrmAlumnos iniciado
+29/05/2026 19:09:58 [Nota] 	Query en "ConsultarBD": "select * from curso order by codigo" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:09:58 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:09:58 [Nota] 	Registros Modificados: 0
+29/05/2026 19:09:59 [Nota] 	Elemento FrmCursos iniciado
+29/05/2026 19:10:03 [Nota] 	Query en "ConsultarBD": "select * from modulo order by codigo" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:03 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:03 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:04 [Nota] 	Elemento FrmModulos iniciado
+29/05/2026 19:10:09 [Nota] 	Query en "ConsultarBD": "select * from contiene order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:09 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:09 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:09 [Nota] 	Query en "ConsultarBD": "select * from curso order by codigo" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:09 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:10 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:10 [Nota] 	Query en "ConsultarBD": "select * from contiene order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:10 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:10 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:10 [Nota] 	Query en "ConsultarBD": "select * from modulo order by codigo" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:10 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:10 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:11 [Nota] 	Query en "ConsultarBD": "select * from contiene order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:11 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:11 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:12 [Nota] 	Elemento FrmContenidos iniciado
+29/05/2026 19:10:20 [Nota] 	Query en "ConsultarBD": "select * from cursa order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:20 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:20 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:20 [Nota] 	Query en "ConsultarBD": "select * from alumno order by dni" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:20 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:20 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:21 [Nota] 	Query en "ConsultarBD": "select * from cursa order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:21 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:21 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:21 [Nota] 	Query en "ConsultarBD": "select * from curso order by codigo" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:21 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:21 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:22 [Nota] 	Query en "ConsultarBD": "select * from cursa order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:22 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:22 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:22 [Nota] 	Elemento FrmMatriculacion iniciado
+29/05/2026 19:10:33 [Nota] 	Query en "ConsultarBD": "select * from califica order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:33 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:33 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:33 [Nota] 	Query en "ConsultarBD": "select * from alumno order by dni" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:33 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:33 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:34 [Nota] 	Query en "ConsultarBD": "select * from califica order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:34 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:34 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:34 [Nota] 	Query en "ConsultarBD": "select * from modulo order by codigo" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:34 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:34 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:35 [Nota] 	Query en "ConsultarBD": "select * from califica order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:10:35 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:10:35 [Nota] 	Registros Modificados: 0
+29/05/2026 19:10:36 [Nota] 	Elemento FrmCalificaciones iniciado
+29/05/2026 19:14:07 [Nota] 	Query en "ConsultarBD": "select * from califica order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:14:07 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:14:07 [Nota] 	Registros Modificados: 0
+29/05/2026 19:14:07 [Nota] 	Query en "ConsultarBD": "select * from alumno order by dni" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:14:07 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:14:07 [Nota] 	Registros Modificados: 0
+29/05/2026 19:14:07 [Nota] 	Query en "ConsultarBD": "select * from califica order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:14:07 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:14:07 [Nota] 	Registros Modificados: 0
+29/05/2026 19:14:08 [Nota] 	Query en "ConsultarBD": "select * from modulo order by codigo" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:14:08 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:14:08 [Nota] 	Registros Modificados: 0
+29/05/2026 19:14:08 [Nota] 	Query en "ConsultarBD": "select * from califica order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:14:08 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:14:08 [Nota] 	Registros Modificados: 0
+29/05/2026 19:14:09 [Nota] 	Elemento FrmCalificaciones iniciado
+29/05/2026 19:15:39 [Nota] 	Query en "ConsultarBD": "select * from alumno order by dni" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:15:39 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:15:39 [Nota] 	Registros Modificados: 0
+29/05/2026 19:15:40 [Nota] 	Elemento FrmAlumnos iniciado
+29/05/2026 19:26:45 [Nota] 	Query en "ConsultarBD": "select * from curso order by codigo" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:26:45 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:26:45 [Nota] 	Registros Modificados: 0
+29/05/2026 19:26:46 [Nota] 	Elemento FrmCursos iniciado
+29/05/2026 19:26:52 [Nota] 	Query en "ConsultarBD": "select * from modulo order by codigo" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:26:52 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:26:52 [Nota] 	Registros Modificados: 0
+29/05/2026 19:26:54 [Nota] 	Elemento FrmModulos iniciado
+29/05/2026 19:26:58 [Nota] 	Query en "ConsultarBD": "select * from alumno order by dni" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:26:59 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:26:59 [Nota] 	Registros Modificados: 0
+29/05/2026 19:27:00 [Nota] 	Elemento FrmAlumnos iniciado
+29/05/2026 19:27:03 [Nota] 	Query en "ConsultarBD": "select * from contiene order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:27:03 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:27:03 [Nota] 	Registros Modificados: 0
+29/05/2026 19:27:04 [Nota] 	Query en "ConsultarBD": "select * from curso order by codigo" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:27:04 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:27:04 [Nota] 	Registros Modificados: 0
+29/05/2026 19:27:04 [Nota] 	Query en "ConsultarBD": "select * from contiene order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:27:04 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:27:04 [Nota] 	Registros Modificados: 0
+29/05/2026 19:27:05 [Nota] 	Query en "ConsultarBD": "select * from modulo order by codigo" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:27:05 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:27:05 [Nota] 	Registros Modificados: 0
+29/05/2026 19:27:05 [Nota] 	Query en "ConsultarBD": "select * from contiene order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:27:05 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:27:05 [Nota] 	Registros Modificados: 0
+29/05/2026 19:27:06 [Nota] 	Elemento FrmContenidos iniciado
+29/05/2026 19:27:24 [Nota] 	Query en "ConsultarBD": "select * from cursa order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:27:24 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:27:24 [Nota] 	Registros Modificados: 0
+29/05/2026 19:27:24 [Nota] 	Query en "ConsultarBD": "select * from alumno order by dni" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:27:25 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:27:25 [Nota] 	Registros Modificados: 0
+29/05/2026 19:27:25 [Nota] 	Query en "ConsultarBD": "select * from cursa order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:27:25 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:27:25 [Nota] 	Registros Modificados: 0
+29/05/2026 19:27:25 [Nota] 	Query en "ConsultarBD": "select * from curso order by codigo" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:27:25 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:27:25 [Nota] 	Registros Modificados: 0
+29/05/2026 19:27:26 [Nota] 	Query en "ConsultarBD": "select * from cursa order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:27:26 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:27:26 [Nota] 	Registros Modificados: 0
+29/05/2026 19:27:27 [Nota] 	Elemento FrmMatriculacion iniciado
+29/05/2026 19:28:34 [Nota] 	Query en "ConsultarBD": "select * from califica order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:28:34 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:28:34 [Nota] 	Registros Modificados: 0
+29/05/2026 19:28:35 [Nota] 	Query en "ConsultarBD": "select * from alumno order by dni" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:28:35 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:28:35 [Nota] 	Registros Modificados: 0
+29/05/2026 19:28:35 [Nota] 	Query en "ConsultarBD": "select * from califica order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:28:35 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:28:35 [Nota] 	Registros Modificados: 0
+29/05/2026 19:28:36 [Nota] 	Query en "ConsultarBD": "select * from modulo order by codigo" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:28:36 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:28:36 [Nota] 	Registros Modificados: 0
+29/05/2026 19:28:36 [Nota] 	Query en "ConsultarBD": "select * from califica order by id" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:28:36 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:28:36 [Nota] 	Registros Modificados: 0
+29/05/2026 19:28:37 [Nota] 	Elemento FrmCalificaciones iniciado
+29/05/2026 19:29:10 [Nota] 	Query en "ConsultarBD": "select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '99999999I'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:29:10 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:29:10 [Nota] 	Registros Modificados: 0
+29/05/2026 19:29:10 [Nota] 	Query en "ConsultarBD": "select * from califica where dni_alumno = '99999999I'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:29:10 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:29:10 [Nota] 	Registros Modificados: 0
+29/05/2026 19:29:26 [Nota] 	Query en "ConsultarBD": "select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '88888888H'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:29:26 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:29:26 [Nota] 	Registros Modificados: 0
+29/05/2026 19:29:27 [Nota] 	Query en "ConsultarBD": "select * from califica where dni_alumno = '88888888H'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:29:27 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:29:27 [Nota] 	Registros Modificados: 0
+29/05/2026 19:29:30 [Nota] 	Query en "ConsultarBD": "select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '88888888H'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:29:30 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:29:30 [Nota] 	Registros Modificados: 0
+29/05/2026 19:29:30 [Nota] 	Query en "ConsultarBD": "select * from califica where dni_alumno = '88888888H'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:29:30 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:29:30 [Nota] 	Registros Modificados: 0
+29/05/2026 19:29:30 [Nota] 	Query en "ConsultarBD": "select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '88888888H'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:29:30 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:29:30 [Nota] 	Registros Modificados: 0
+29/05/2026 19:29:30 [Nota] 	Query en "ConsultarBD": "select * from califica where dni_alumno = '88888888H'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:29:30 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:29:30 [Nota] 	Registros Modificados: 0
+29/05/2026 19:29:30 [Nota] 	Query en "ConsultarBD": "select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '88888888H'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:29:30 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:29:30 [Nota] 	Registros Modificados: 0
+29/05/2026 19:29:30 [Nota] 	Query en "ConsultarBD": "select * from califica where dni_alumno = '88888888H'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:29:30 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:29:30 [Nota] 	Registros Modificados: 0
+29/05/2026 19:29:40 [Nota] 	Query en "ConsultarBD": "select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '88888888H'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:29:40 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:29:40 [Nota] 	Registros Modificados: 0
+29/05/2026 19:29:40 [Nota] 	Query en "ConsultarBD": "select * from califica where dni_alumno = '88888888H'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:29:40 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:29:40 [Nota] 	Registros Modificados: 0
+29/05/2026 19:30:00 [Nota] 	Query en "ConsultarBD": "select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '77777777G'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:30:00 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:30:00 [Nota] 	Registros Modificados: 0
+29/05/2026 19:30:00 [Nota] 	Query en "ConsultarBD": "select * from califica where dni_alumno = '77777777G'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:30:00 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:30:00 [Nota] 	Registros Modificados: 0
+29/05/2026 19:30:04 [Nota] 	Query en "ConsultarBD": "select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '66666666F'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:30:04 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:30:04 [Nota] 	Registros Modificados: 0
+29/05/2026 19:30:04 [Nota] 	Query en "ConsultarBD": "select * from califica where dni_alumno = '66666666F'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:30:04 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:30:05 [Nota] 	Registros Modificados: 0
+29/05/2026 19:32:41 [Nota] 	Query en "ConsultarBD": "select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '55555555E'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:32:41 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:32:41 [Nota] 	Registros Modificados: 0
+29/05/2026 19:32:41 [Nota] 	Query en "ConsultarBD": "select * from califica where dni_alumno = '55555555E'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:32:42 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:32:42 [Nota] 	Registros Modificados: 0
+29/05/2026 19:32:50 [Nota] 	Query en "ConsultarBD": "select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '44444444D'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:32:50 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:32:50 [Nota] 	Registros Modificados: 0
+29/05/2026 19:32:50 [Nota] 	Query en "ConsultarBD": "select * from califica where dni_alumno = '44444444D'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:32:50 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:32:50 [Nota] 	Registros Modificados: 0
+29/05/2026 19:32:52 [Nota] 	Query en "ConsultarBD": "select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '33333333C'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:32:52 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:32:52 [Nota] 	Registros Modificados: 0
+29/05/2026 19:32:52 [Nota] 	Query en "ConsultarBD": "select * from califica where dni_alumno = '33333333C'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:32:52 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:32:52 [Nota] 	Registros Modificados: 0
+29/05/2026 19:32:59 [Nota] 	Query en "ConsultarBD": "select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '22222222B'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:32:59 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:32:59 [Nota] 	Registros Modificados: 0
+29/05/2026 19:32:59 [Nota] 	Query en "ConsultarBD": "select * from califica where dni_alumno = '22222222B'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:32:59 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:32:59 [Nota] 	Registros Modificados: 0
+29/05/2026 19:33:04 [Nota] 	Query en "ConsultarBD": "select * from modulo inner join califica on modulo.codigo = califica.codigo_modulo where califica.dni_alumno = '11111111A'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:33:04 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:33:04 [Nota] 	Registros Modificados: 0
+29/05/2026 19:33:04 [Nota] 	Query en "ConsultarBD": "select * from califica where dni_alumno = '11111111A'" para "MySql.Data.MySqlClient.MySqlConnection"
+29/05/2026 19:33:04 [Nota] 	Mensaje "ErrorBD": 
+29/05/2026 19:33:05 [Nota] 	Registros Modificados: 0

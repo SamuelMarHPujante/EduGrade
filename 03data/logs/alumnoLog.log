@@ -1,0 +1,197 @@
+29/05/2026 19:09:52 [Nota] 	Petición de lista: "select * from alumno order by dni"
+29/05/2026 19:09:52 [Nota] 	-- [11111111A] Vicente Martínez Martínez - Tlf. 964567899 - San Juan
+29/05/2026 19:09:52 [Nota] 	-- [22222222B] Roberto Hidalgo García - Tlf. 965567898 - Muchamiel
+29/05/2026 19:09:52 [Nota] 	-- [33333333C] Sergio Murcia Pérez - Tlf. 966787777 - Villafranqueza
+29/05/2026 19:09:52 [Nota] 	-- [44444444D] Asunción Pérez Pérez - Tlf. 965325476 - Campello
+29/05/2026 19:09:52 [Nota] 	-- [55555555E] Juan Jose Guarinos Huesca - Tlf. 965995687 - Alicante
+29/05/2026 19:09:52 [Nota] 	-- [66666666F] Alicia Pérez Herrero - Tlf. 966788887 - Alicante
+29/05/2026 19:09:52 [Nota] 	-- [77777777G] Jose Martínez Pujol - Tlf. 966799999 - San Juan
+29/05/2026 19:09:52 [Nota] 	-- [88888888H] Antonio Onrrubia Pérez - Tlf. 966788888 - San Vicente
+29/05/2026 19:09:52 [Nota] 	-- [99999999I] Nerea Vegara Garcia - Tlf. 966787777 - Agost
+29/05/2026 19:09:52 [Nota] 	Fila 0 seleccionada
+29/05/2026 19:09:52 [Nota] 	[]   - Tlf.  - 
+29/05/2026 19:09:52 [Nota] 	Dato copiado a "txtDni": "11111111A"
+29/05/2026 19:09:52 [Nota] 	Dato copiado a "txtNombre": "Vicente"
+29/05/2026 19:09:52 [Nota] 	Dato copiado a "txtApellidos": "Martínez Martínez"
+29/05/2026 19:09:52 [Nota] 	Dato copiado a "txtTelefono": "964567899"
+29/05/2026 19:09:52 [Nota] 	Dato copiado a "txtPoblacion": "San Juan"
+29/05/2026 19:09:53 [Nota] 	Tabla "alumno" refrescada
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnPrimero"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnAnterior"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnSiguiente"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnUltimo"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnInsertar"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrar"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnEditar"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBuscar"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarDni"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarNombre"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarApellidos"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarTelefono"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarPoblacion"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarTodo"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarDni"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarNombre"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarApellidos"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarTelefono"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarPoblacion"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarTodo"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnAbrirLog"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarLog"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescar"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a texto "txtDni"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a texto "txtNombre"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a texto "txtApellidos"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a texto "txtTelefono"
+29/05/2026 19:09:53 [Nota] 	Evento "System.Action" enlazado a texto "txtPoblacion"
+29/05/2026 19:09:53 [Nota] 	"cbxCopiarTodo" alterado a "True"
+29/05/2026 19:09:53 [Nota] 	"cbxBorrarTodo" alterado a "False"
+29/05/2026 19:09:53 [Nota] 	Conexión exitosa
+29/05/2026 19:10:20 [Nota] 	Petición de lista: "select * from alumno order by dni"
+29/05/2026 19:10:20 [Nota] 	-- [11111111A] Vicente Martínez Martínez - Tlf. 964567899 - San Juan
+29/05/2026 19:10:20 [Nota] 	-- [22222222B] Roberto Hidalgo García - Tlf. 965567898 - Muchamiel
+29/05/2026 19:10:20 [Nota] 	-- [33333333C] Sergio Murcia Pérez - Tlf. 966787777 - Villafranqueza
+29/05/2026 19:10:20 [Nota] 	-- [44444444D] Asunción Pérez Pérez - Tlf. 965325476 - Campello
+29/05/2026 19:10:20 [Nota] 	-- [55555555E] Juan Jose Guarinos Huesca - Tlf. 965995687 - Alicante
+29/05/2026 19:10:20 [Nota] 	-- [66666666F] Alicia Pérez Herrero - Tlf. 966788887 - Alicante
+29/05/2026 19:10:20 [Nota] 	-- [77777777G] Jose Martínez Pujol - Tlf. 966799999 - San Juan
+29/05/2026 19:10:21 [Nota] 	-- [88888888H] Antonio Onrrubia Pérez - Tlf. 966788888 - San Vicente
+29/05/2026 19:10:21 [Nota] 	-- [99999999I] Nerea Vegara Garcia - Tlf. 966787777 - Agost
+29/05/2026 19:10:33 [Nota] 	Petición de lista: "select * from alumno order by dni"
+29/05/2026 19:10:33 [Nota] 	-- [11111111A] Vicente Martínez Martínez - Tlf. 964567899 - San Juan
+29/05/2026 19:10:33 [Nota] 	-- [22222222B] Roberto Hidalgo García - Tlf. 965567898 - Muchamiel
+29/05/2026 19:10:33 [Nota] 	-- [33333333C] Sergio Murcia Pérez - Tlf. 966787777 - Villafranqueza
+29/05/2026 19:10:33 [Nota] 	-- [44444444D] Asunción Pérez Pérez - Tlf. 965325476 - Campello
+29/05/2026 19:10:33 [Nota] 	-- [55555555E] Juan Jose Guarinos Huesca - Tlf. 965995687 - Alicante
+29/05/2026 19:10:33 [Nota] 	-- [66666666F] Alicia Pérez Herrero - Tlf. 966788887 - Alicante
+29/05/2026 19:10:33 [Nota] 	-- [77777777G] Jose Martínez Pujol - Tlf. 966799999 - San Juan
+29/05/2026 19:10:33 [Nota] 	-- [88888888H] Antonio Onrrubia Pérez - Tlf. 966788888 - San Vicente
+29/05/2026 19:10:33 [Nota] 	-- [99999999I] Nerea Vegara Garcia - Tlf. 966787777 - Agost
+29/05/2026 19:14:07 [Nota] 	Petición de lista: "select * from alumno order by dni"
+29/05/2026 19:14:07 [Nota] 	-- [11111111A] Vicente Martínez Martínez - Tlf. 964567899 - San Juan
+29/05/2026 19:14:07 [Nota] 	-- [22222222B] Roberto Hidalgo García - Tlf. 965567898 - Muchamiel
+29/05/2026 19:14:07 [Nota] 	-- [33333333C] Sergio Murcia Pérez - Tlf. 966787777 - Villafranqueza
+29/05/2026 19:14:07 [Nota] 	-- [44444444D] Asunción Pérez Pérez - Tlf. 965325476 - Campello
+29/05/2026 19:14:07 [Nota] 	-- [55555555E] Juan Jose Guarinos Huesca - Tlf. 965995687 - Alicante
+29/05/2026 19:14:07 [Nota] 	-- [66666666F] Alicia Pérez Herrero - Tlf. 966788887 - Alicante
+29/05/2026 19:14:07 [Nota] 	-- [77777777G] Jose Martínez Pujol - Tlf. 966799999 - San Juan
+29/05/2026 19:14:07 [Nota] 	-- [88888888H] Antonio Onrrubia Pérez - Tlf. 966788888 - San Vicente
+29/05/2026 19:14:07 [Nota] 	-- [99999999I] Nerea Vegara Garcia - Tlf. 966787777 - Agost
+29/05/2026 19:15:39 [Nota] 	Petición de lista: "select * from alumno order by dni"
+29/05/2026 19:15:39 [Nota] 	-- [11111111A] Vicente Martínez Martínez - Tlf. 964567899 - San Juan
+29/05/2026 19:15:39 [Nota] 	-- [22222222B] Roberto Hidalgo García - Tlf. 965567898 - Muchamiel
+29/05/2026 19:15:39 [Nota] 	-- [33333333C] Sergio Murcia Pérez - Tlf. 966787777 - Villafranqueza
+29/05/2026 19:15:39 [Nota] 	-- [44444444D] Asunción Pérez Pérez - Tlf. 965325476 - Campello
+29/05/2026 19:15:39 [Nota] 	-- [55555555E] Juan Jose Guarinos Huesca - Tlf. 965995687 - Alicante
+29/05/2026 19:15:39 [Nota] 	-- [66666666F] Alicia Pérez Herrero - Tlf. 966788887 - Alicante
+29/05/2026 19:15:39 [Nota] 	-- [77777777G] Jose Martínez Pujol - Tlf. 966799999 - San Juan
+29/05/2026 19:15:39 [Nota] 	-- [88888888H] Antonio Onrrubia Pérez - Tlf. 966788888 - San Vicente
+29/05/2026 19:15:39 [Nota] 	-- [99999999I] Nerea Vegara Garcia - Tlf. 966787777 - Agost
+29/05/2026 19:15:39 [Nota] 	Fila 0 seleccionada
+29/05/2026 19:15:39 [Nota] 	[]   - Tlf.  - 
+29/05/2026 19:15:39 [Nota] 	Dato copiado a "txtDni": "11111111A"
+29/05/2026 19:15:39 [Nota] 	Dato copiado a "txtNombre": "Vicente"
+29/05/2026 19:15:39 [Nota] 	Dato copiado a "txtApellidos": "Martínez Martínez"
+29/05/2026 19:15:39 [Nota] 	Dato copiado a "txtTelefono": "964567899"
+29/05/2026 19:15:39 [Nota] 	Dato copiado a "txtPoblacion": "San Juan"
+29/05/2026 19:15:39 [Nota] 	Tabla "alumno" refrescada
+29/05/2026 19:15:39 [Nota] 	Evento "System.Action" enlazado a botón "btnPrimero"
+29/05/2026 19:15:39 [Nota] 	Evento "System.Action" enlazado a botón "btnAnterior"
+29/05/2026 19:15:39 [Nota] 	Evento "System.Action" enlazado a botón "btnSiguiente"
+29/05/2026 19:15:39 [Nota] 	Evento "System.Action" enlazado a botón "btnUltimo"
+29/05/2026 19:15:39 [Nota] 	Evento "System.Action" enlazado a botón "btnInsertar"
+29/05/2026 19:15:39 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrar"
+29/05/2026 19:15:39 [Nota] 	Evento "System.Action" enlazado a botón "btnEditar"
+29/05/2026 19:15:39 [Nota] 	Evento "System.Action" enlazado a botón "btnBuscar"
+29/05/2026 19:15:39 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarDni"
+29/05/2026 19:15:39 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarNombre"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarApellidos"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarTelefono"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarPoblacion"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarTodo"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarDni"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarNombre"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarApellidos"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarTelefono"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarPoblacion"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarTodo"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a botón "btnAbrirLog"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarLog"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescar"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a texto "txtDni"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a texto "txtNombre"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a texto "txtApellidos"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a texto "txtTelefono"
+29/05/2026 19:15:40 [Nota] 	Evento "System.Action" enlazado a texto "txtPoblacion"
+29/05/2026 19:15:40 [Nota] 	"cbxCopiarTodo" alterado a "True"
+29/05/2026 19:15:40 [Nota] 	"cbxBorrarTodo" alterado a "False"
+29/05/2026 19:15:40 [Nota] 	Conexión exitosa
+29/05/2026 19:26:58 [Nota] 	Petición de lista: "select * from alumno order by dni"
+29/05/2026 19:26:59 [Nota] 	-- [11111111A] Vicente Martínez Martínez - Tlf. 964567899 - San Juan
+29/05/2026 19:26:59 [Nota] 	-- [22222222B] Roberto Hidalgo García - Tlf. 965567898 - Muchamiel
+29/05/2026 19:26:59 [Nota] 	-- [33333333C] Sergio Murcia Pérez - Tlf. 966787777 - Villafranqueza
+29/05/2026 19:26:59 [Nota] 	-- [44444444D] Asunción Pérez Pérez - Tlf. 965325476 - Campello
+29/05/2026 19:26:59 [Nota] 	-- [55555555E] Juan Jose Guarinos Huesca - Tlf. 965995687 - Alicante
+29/05/2026 19:26:59 [Nota] 	-- [66666666F] Alicia Pérez Herrero - Tlf. 966788887 - Alicante
+29/05/2026 19:26:59 [Nota] 	-- [77777777G] Jose Martínez Pujol - Tlf. 966799999 - San Juan
+29/05/2026 19:26:59 [Nota] 	-- [88888888H] Antonio Onrrubia Pérez - Tlf. 966788888 - San Vicente
+29/05/2026 19:26:59 [Nota] 	-- [99999999I] Nerea Vegara Garcia - Tlf. 966787777 - Agost
+29/05/2026 19:26:59 [Nota] 	Fila 0 seleccionada
+29/05/2026 19:26:59 [Nota] 	[]   - Tlf.  - 
+29/05/2026 19:26:59 [Nota] 	Dato copiado a "txtDni": "11111111A"
+29/05/2026 19:26:59 [Nota] 	Dato copiado a "txtNombre": "Vicente"
+29/05/2026 19:26:59 [Nota] 	Dato copiado a "txtApellidos": "Martínez Martínez"
+29/05/2026 19:26:59 [Nota] 	Dato copiado a "txtTelefono": "964567899"
+29/05/2026 19:26:59 [Nota] 	Dato copiado a "txtPoblacion": "San Juan"
+29/05/2026 19:26:59 [Nota] 	Tabla "alumno" refrescada
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnPrimero"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnAnterior"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnSiguiente"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnUltimo"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnInsertar"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrar"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnEditar"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnBuscar"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarDni"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarNombre"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarApellidos"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarTelefono"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarPoblacion"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarTodo"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarDni"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarNombre"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarApellidos"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarTelefono"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarPoblacion"
+29/05/2026 19:26:59 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarTodo"
+29/05/2026 19:27:00 [Nota] 	Evento "System.Action" enlazado a botón "btnAbrirLog"
+29/05/2026 19:27:00 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarLog"
+29/05/2026 19:27:00 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescar"
+29/05/2026 19:27:00 [Nota] 	Evento "System.Action" enlazado a texto "txtDni"
+29/05/2026 19:27:00 [Nota] 	Evento "System.Action" enlazado a texto "txtNombre"
+29/05/2026 19:27:00 [Nota] 	Evento "System.Action" enlazado a texto "txtApellidos"
+29/05/2026 19:27:00 [Nota] 	Evento "System.Action" enlazado a texto "txtTelefono"
+29/05/2026 19:27:00 [Nota] 	Evento "System.Action" enlazado a texto "txtPoblacion"
+29/05/2026 19:27:00 [Nota] 	"cbxCopiarTodo" alterado a "True"
+29/05/2026 19:27:00 [Nota] 	"cbxBorrarTodo" alterado a "False"
+29/05/2026 19:27:00 [Nota] 	Conexión exitosa
+29/05/2026 19:27:24 [Nota] 	Petición de lista: "select * from alumno order by dni"
+29/05/2026 19:27:25 [Nota] 	-- [11111111A] Vicente Martínez Martínez - Tlf. 964567899 - San Juan
+29/05/2026 19:27:25 [Nota] 	-- [22222222B] Roberto Hidalgo García - Tlf. 965567898 - Muchamiel
+29/05/2026 19:27:25 [Nota] 	-- [33333333C] Sergio Murcia Pérez - Tlf. 966787777 - Villafranqueza
+29/05/2026 19:27:25 [Nota] 	-- [44444444D] Asunción Pérez Pérez - Tlf. 965325476 - Campello
+29/05/2026 19:27:25 [Nota] 	-- [55555555E] Juan Jose Guarinos Huesca - Tlf. 965995687 - Alicante
+29/05/2026 19:27:25 [Nota] 	-- [66666666F] Alicia Pérez Herrero - Tlf. 966788887 - Alicante
+29/05/2026 19:27:25 [Nota] 	-- [77777777G] Jose Martínez Pujol - Tlf. 966799999 - San Juan
+29/05/2026 19:27:25 [Nota] 	-- [88888888H] Antonio Onrrubia Pérez - Tlf. 966788888 - San Vicente
+29/05/2026 19:27:25 [Nota] 	-- [99999999I] Nerea Vegara Garcia - Tlf. 966787777 - Agost
+29/05/2026 19:28:35 [Nota] 	Petición de lista: "select * from alumno order by dni"
+29/05/2026 19:28:35 [Nota] 	-- [11111111A] Vicente Martínez Martínez - Tlf. 964567899 - San Juan
+29/05/2026 19:28:35 [Nota] 	-- [22222222B] Roberto Hidalgo García - Tlf. 965567898 - Muchamiel
+29/05/2026 19:28:35 [Nota] 	-- [33333333C] Sergio Murcia Pérez - Tlf. 966787777 - Villafranqueza
+29/05/2026 19:28:35 [Nota] 	-- [44444444D] Asunción Pérez Pérez - Tlf. 965325476 - Campello
+29/05/2026 19:28:35 [Nota] 	-- [55555555E] Juan Jose Guarinos Huesca - Tlf. 965995687 - Alicante
+29/05/2026 19:28:35 [Nota] 	-- [66666666F] Alicia Pérez Herrero - Tlf. 966788887 - Alicante
+29/05/2026 19:28:35 [Nota] 	-- [77777777G] Jose Martínez Pujol - Tlf. 966799999 - San Juan
+29/05/2026 19:28:35 [Nota] 	-- [88888888H] Antonio Onrrubia Pérez - Tlf. 966788888 - San Vicente
+29/05/2026 19:28:35 [Nota] 	-- [99999999I] Nerea Vegara Garcia - Tlf. 966787777 - Agost

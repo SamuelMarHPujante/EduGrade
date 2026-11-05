@@ -1,0 +1,145 @@
+29/05/2026 19:10:03 [Nota] 	Petición de lista: "select * from modulo order by codigo"
+29/05/2026 19:10:03 [Nota] 	-- [101] - Bases de Datos - Nº prácticas: 5 - Nº exámenes: 2
+29/05/2026 19:10:03 [Nota] 	-- [102] - Sistemas Informáticos - Nº prácticas: 4 - Nº exámenes: 3
+29/05/2026 19:10:03 [Nota] 	-- [103] - Programación - Nº prácticas: 8 - Nº exámenes: 4
+29/05/2026 19:10:03 [Nota] 	-- [104] - Seguridad Lógica - Nº prácticas: 3 - Nº exámenes: 2
+29/05/2026 19:10:03 [Nota] 	-- [105] - Redes Locales - Nº prácticas: 6 - Nº exámenes: 2
+29/05/2026 19:10:03 [Nota] 	-- [106] - Gestión Financiera - Nº prácticas: 2 - Nº exámenes: 3
+29/05/2026 19:10:03 [Nota] 	-- [107] - Bioquímica Clínica - Nº prácticas: 10 - Nº exámenes: 2
+29/05/2026 19:10:03 [Nota] 	-- [108] - Entornos de Desarrollo - Nº prácticas: 4 - Nº exámenes: 1
+29/05/2026 19:10:03 [Nota] 	Fila 0 seleccionada
+29/05/2026 19:10:03 [Nota] 	[] -  - Nº prácticas:  - Nº exámenes: 
+29/05/2026 19:10:03 [Nota] 	Dato copiado a "txtCodigo": "101"
+29/05/2026 19:10:03 [Nota] 	Dato copiado a "txtNombre": "Bases de Datos"
+29/05/2026 19:10:03 [Nota] 	Dato copiado a "txtN_practicas": "5"
+29/05/2026 19:10:03 [Nota] 	Dato copiado a "txtN_examenes": "2"
+29/05/2026 19:10:03 [Nota] 	Tabla "modulo" refrescada
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnPrimero"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnAnterior"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnSiguiente"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnUltimo"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnInsertar"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrar"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnEditar"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnBuscar"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarCodigo"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarNombre"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarN_practicas"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarN_examenes"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarTodo"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarCodigo"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarNombre"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarN_practicas"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarN_examenes"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarTodo"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnAbrirLog"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarLog"
+29/05/2026 19:10:03 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescar"
+29/05/2026 19:10:04 [Nota] 	Evento "System.Action" enlazado a texto "txtCodigo"
+29/05/2026 19:10:04 [Nota] 	Evento "System.Action" enlazado a texto "txtNombre"
+29/05/2026 19:10:04 [Nota] 	Evento "System.Action" enlazado a texto "txtN_practicas"
+29/05/2026 19:10:04 [Nota] 	Evento "System.Action" enlazado a texto "txtN_examenes"
+29/05/2026 19:10:04 [Nota] 	"cbxCopiarTodo" alterado a "True"
+29/05/2026 19:10:04 [Nota] 	"cbxBorrarTodo" alterado a "False"
+29/05/2026 19:10:04 [Nota] 	Conexión exitosa
+29/05/2026 19:10:10 [Nota] 	Petición de lista: "select * from modulo order by codigo"
+29/05/2026 19:10:10 [Nota] 	-- [101] - Bases de Datos - Nº prácticas: 5 - Nº exámenes: 2
+29/05/2026 19:10:10 [Nota] 	-- [102] - Sistemas Informáticos - Nº prácticas: 4 - Nº exámenes: 3
+29/05/2026 19:10:11 [Nota] 	-- [103] - Programación - Nº prácticas: 8 - Nº exámenes: 4
+29/05/2026 19:10:11 [Nota] 	-- [104] - Seguridad Lógica - Nº prácticas: 3 - Nº exámenes: 2
+29/05/2026 19:10:11 [Nota] 	-- [105] - Redes Locales - Nº prácticas: 6 - Nº exámenes: 2
+29/05/2026 19:10:11 [Nota] 	-- [106] - Gestión Financiera - Nº prácticas: 2 - Nº exámenes: 3
+29/05/2026 19:10:11 [Nota] 	-- [107] - Bioquímica Clínica - Nº prácticas: 10 - Nº exámenes: 2
+29/05/2026 19:10:11 [Nota] 	-- [108] - Entornos de Desarrollo - Nº prácticas: 4 - Nº exámenes: 1
+29/05/2026 19:10:34 [Nota] 	Petición de lista: "select * from modulo order by codigo"
+29/05/2026 19:10:34 [Nota] 	-- [101] - Bases de Datos - Nº prácticas: 5 - Nº exámenes: 2
+29/05/2026 19:10:34 [Nota] 	-- [102] - Sistemas Informáticos - Nº prácticas: 4 - Nº exámenes: 3
+29/05/2026 19:10:34 [Nota] 	-- [103] - Programación - Nº prácticas: 8 - Nº exámenes: 4
+29/05/2026 19:10:35 [Nota] 	-- [104] - Seguridad Lógica - Nº prácticas: 3 - Nº exámenes: 2
+29/05/2026 19:10:35 [Nota] 	-- [105] - Redes Locales - Nº prácticas: 6 - Nº exámenes: 2
+29/05/2026 19:10:35 [Nota] 	-- [106] - Gestión Financiera - Nº prácticas: 2 - Nº exámenes: 3
+29/05/2026 19:10:35 [Nota] 	-- [107] - Bioquímica Clínica - Nº prácticas: 10 - Nº exámenes: 2
+29/05/2026 19:10:35 [Nota] 	-- [108] - Entornos de Desarrollo - Nº prácticas: 4 - Nº exámenes: 1
+29/05/2026 19:14:08 [Nota] 	Petición de lista: "select * from modulo order by codigo"
+29/05/2026 19:14:08 [Nota] 	-- [101] - Bases de Datos - Nº prácticas: 5 - Nº exámenes: 2
+29/05/2026 19:14:08 [Nota] 	-- [102] - Sistemas Informáticos - Nº prácticas: 4 - Nº exámenes: 3
+29/05/2026 19:14:08 [Nota] 	-- [103] - Programación - Nº prácticas: 8 - Nº exámenes: 4
+29/05/2026 19:14:08 [Nota] 	-- [104] - Seguridad Lógica - Nº prácticas: 3 - Nº exámenes: 2
+29/05/2026 19:14:08 [Nota] 	-- [105] - Redes Locales - Nº prácticas: 6 - Nº exámenes: 2
+29/05/2026 19:14:08 [Nota] 	-- [106] - Gestión Financiera - Nº prácticas: 2 - Nº exámenes: 3
+29/05/2026 19:14:08 [Nota] 	-- [107] - Bioquímica Clínica - Nº prácticas: 10 - Nº exámenes: 2
+29/05/2026 19:14:08 [Nota] 	-- [108] - Entornos de Desarrollo - Nº prácticas: 4 - Nº exámenes: 1
+29/05/2026 19:26:52 [Nota] 	Petición de lista: "select * from modulo order by codigo"
+29/05/2026 19:26:52 [Nota] 	-- [101] - Bases de Datos - Nº prácticas: 5 - Nº exámenes: 2
+29/05/2026 19:26:53 [Nota] 	-- [102] - Sistemas Informáticos - Nº prácticas: 4 - Nº exámenes: 3
+29/05/2026 19:26:53 [Nota] 	-- [103] - Programación - Nº prácticas: 8 - Nº exámenes: 4
+29/05/2026 19:26:53 [Nota] 	-- [104] - Seguridad Lógica - Nº prácticas: 3 - Nº exámenes: 2
+29/05/2026 19:26:53 [Nota] 	-- [105] - Redes Locales - Nº prácticas: 6 - Nº exámenes: 2
+29/05/2026 19:26:53 [Nota] 	-- [106] - Gestión Financiera - Nº prácticas: 2 - Nº exámenes: 3
+29/05/2026 19:26:53 [Nota] 	-- [107] - Bioquímica Clínica - Nº prácticas: 10 - Nº exámenes: 2
+29/05/2026 19:26:53 [Nota] 	-- [108] - Entornos de Desarrollo - Nº prácticas: 4 - Nº exámenes: 1
+29/05/2026 19:26:53 [Nota] 	Fila 0 seleccionada
+29/05/2026 19:26:53 [Nota] 	[] -  - Nº prácticas:  - Nº exámenes: 
+29/05/2026 19:26:53 [Nota] 	Dato copiado a "txtCodigo": "101"
+29/05/2026 19:26:53 [Nota] 	Dato copiado a "txtNombre": "Bases de Datos"
+29/05/2026 19:26:53 [Nota] 	Dato copiado a "txtN_practicas": "5"
+29/05/2026 19:26:53 [Nota] 	Dato copiado a "txtN_examenes": "2"
+29/05/2026 19:26:53 [Nota] 	Tabla "modulo" refrescada
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnPrimero"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnAnterior"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnSiguiente"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnUltimo"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnInsertar"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrar"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnEditar"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBuscar"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarCodigo"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarNombre"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarN_practicas"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarN_examenes"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarTodo"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarCodigo"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarNombre"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarN_practicas"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarN_examenes"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarTodo"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnAbrirLog"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarLog"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescar"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a texto "txtCodigo"
+29/05/2026 19:26:53 [Nota] 	Evento "System.Action" enlazado a texto "txtNombre"
+29/05/2026 19:26:54 [Nota] 	Evento "System.Action" enlazado a texto "txtN_practicas"
+29/05/2026 19:26:54 [Nota] 	Evento "System.Action" enlazado a texto "txtN_examenes"
+29/05/2026 19:26:54 [Nota] 	"cbxCopiarTodo" alterado a "True"
+29/05/2026 19:26:54 [Nota] 	"cbxBorrarTodo" alterado a "False"
+29/05/2026 19:26:54 [Nota] 	Conexión exitosa
+29/05/2026 19:26:55 [Nota] 	Fila 4 seleccionada
+29/05/2026 19:26:55 [Nota] 	[104] - Seguridad Lógica - Nº prácticas: 3 - Nº exámenes: 2
+29/05/2026 19:26:55 [Nota] 	Dato copiado a "txtCodigo": "104"
+29/05/2026 19:26:55 [Nota] 	Dato copiado a "txtNombre": "Seguridad Lógica"
+29/05/2026 19:26:55 [Nota] 	Dato copiado a "txtN_practicas": "3"
+29/05/2026 19:26:55 [Nota] 	Dato copiado a "txtN_examenes": "2"
+29/05/2026 19:26:56 [Nota] 	Fila 6 seleccionada
+29/05/2026 19:26:56 [Nota] 	[106] - Gestión Financiera - Nº prácticas: 2 - Nº exámenes: 3
+29/05/2026 19:26:56 [Nota] 	Dato copiado a "txtCodigo": "106"
+29/05/2026 19:26:56 [Nota] 	Dato copiado a "txtNombre": "Gestión Financiera"
+29/05/2026 19:26:56 [Nota] 	Dato copiado a "txtN_practicas": "2"
+29/05/2026 19:26:56 [Nota] 	Dato copiado a "txtN_examenes": "3"
+29/05/2026 19:27:05 [Nota] 	Petición de lista: "select * from modulo order by codigo"
+29/05/2026 19:27:05 [Nota] 	-- [101] - Bases de Datos - Nº prácticas: 5 - Nº exámenes: 2
+29/05/2026 19:27:05 [Nota] 	-- [102] - Sistemas Informáticos - Nº prácticas: 4 - Nº exámenes: 3
+29/05/2026 19:27:05 [Nota] 	-- [103] - Programación - Nº prácticas: 8 - Nº exámenes: 4
+29/05/2026 19:27:05 [Nota] 	-- [104] - Seguridad Lógica - Nº prácticas: 3 - Nº exámenes: 2
+29/05/2026 19:27:05 [Nota] 	-- [105] - Redes Locales - Nº prácticas: 6 - Nº exámenes: 2
+29/05/2026 19:27:05 [Nota] 	-- [106] - Gestión Financiera - Nº prácticas: 2 - Nº exámenes: 3
+29/05/2026 19:27:05 [Nota] 	-- [107] - Bioquímica Clínica - Nº prácticas: 10 - Nº exámenes: 2
+29/05/2026 19:27:05 [Nota] 	-- [108] - Entornos de Desarrollo - Nº prácticas: 4 - Nº exámenes: 1
+29/05/2026 19:28:36 [Nota] 	Petición de lista: "select * from modulo order by codigo"
+29/05/2026 19:28:36 [Nota] 	-- [101] - Bases de Datos - Nº prácticas: 5 - Nº exámenes: 2
+29/05/2026 19:28:36 [Nota] 	-- [102] - Sistemas Informáticos - Nº prácticas: 4 - Nº exámenes: 3
+29/05/2026 19:28:36 [Nota] 	-- [103] - Programación - Nº prácticas: 8 - Nº exámenes: 4
+29/05/2026 19:28:36 [Nota] 	-- [104] - Seguridad Lógica - Nº prácticas: 3 - Nº exámenes: 2
+29/05/2026 19:28:36 [Nota] 	-- [105] - Redes Locales - Nº prácticas: 6 - Nº exámenes: 2
+29/05/2026 19:28:36 [Nota] 	-- [106] - Gestión Financiera - Nº prácticas: 2 - Nº exámenes: 3
+29/05/2026 19:28:36 [Nota] 	-- [107] - Bioquímica Clínica - Nº prácticas: 10 - Nº exámenes: 2
+29/05/2026 19:28:36 [Nota] 	-- [108] - Entornos de Desarrollo - Nº prácticas: 4 - Nº exámenes: 1

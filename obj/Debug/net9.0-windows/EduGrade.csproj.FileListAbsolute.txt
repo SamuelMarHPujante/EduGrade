@@ -1,0 +1,175 @@
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\EduGrade.exe
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\EduGrade.deps.json
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\EduGrade.runtimeconfig.json
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\EduGrade.dll
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\EduGrade.pdb
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\Google.Protobuf.dll
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\MySql.Data.dll
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\ZstdSharp.dll
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+I:\DAM_01\-WIPs-\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.AssemblyReference.cache
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.FrmAlumnos.resources
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\EduGrade.FrmPortada.resources
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\EduGrade.Properties.Resources.resources
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.GenerateResource.cache
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\EduGrade.GeneratedMSBuildEditorConfig.editorconfig
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\EduGrade.AssemblyInfoInputs.cache
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\EduGrade.AssemblyInfo.cs
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.CoreCompileInputs.cache
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.Up2Date
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\EduGrade.dll
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\refint\EduGrade.dll
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\EduGrade.pdb
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\EduGrade.genruntimeconfig.cache
+I:\DAM_01\-WIPs-\EduGrade\obj\Debug\net9.0-windows\ref\EduGrade.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.AssemblyReference.cache
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.FrmAlumnos.resources
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.FrmPortada.resources
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.Properties.Resources.resources
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.GenerateResource.cache
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.GeneratedMSBuildEditorConfig.editorconfig
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.AssemblyInfoInputs.cache
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.AssemblyInfo.cs
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.CoreCompileInputs.cache
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\refint\EduGrade.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.pdb
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.exe
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.deps.json
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.runtimeconfig.json
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.pdb
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\Google.Protobuf.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\MySql.Data.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\ZstdSharp.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.Up2Date
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.genruntimeconfig.cache
+I:\DAM_01\-WIPs-\Gestor_notas_EduGrade\EduGrade\obj\Debug\net9.0-windows\ref\EduGrade.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.exe
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.deps.json
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.runtimeconfig.json
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.pdb
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\Google.Protobuf.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\MySql.Data.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\ZstdSharp.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.AssemblyReference.cache
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.Properties.Resources.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.GenerateResource.cache
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.GeneratedMSBuildEditorConfig.editorconfig
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.AssemblyInfoInputs.cache
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.AssemblyInfo.cs
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.CoreCompileInputs.cache
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.Up2Date
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\refint\EduGrade.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.pdb
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.genruntimeconfig.cache
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\ref\EduGrade.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.FrmInicio.resources
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.exe
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.deps.json
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.runtimeconfig.json
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\EduGrade.pdb
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\Google.Protobuf.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\MySql.Data.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\ZstdSharp.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.AssemblyReference.cache
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.FrmInicio.resources
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.Properties.Resources.resources
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.GenerateResource.cache
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.AssemblyInfoInputs.cache
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.AssemblyInfo.cs
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.CoreCompileInputs.cache
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.Up2Date
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\refint\EduGrade.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.pdb
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade.genruntimeconfig.cache
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\ref\EduGrade.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_individual.FrmAlumnos.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_individual.FrmCursos.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_individual.FrmModulos.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_relaciones.FrmContenidos.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_relaciones.FrmCalificaciones.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_relaciones.FrmMatriculacion.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\EduGrade.exe
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\EduGrade.deps.json
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\EduGrade.runtimeconfig.json
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\EduGrade.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\EduGrade.pdb
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\Google.Protobuf.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\MySql.Data.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\ZstdSharp.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.AssemblyReference.cache
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade.FrmInicio.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_individual.FrmAlumnos.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_individual.FrmCursos.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_individual.FrmModulos.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_relaciones.FrmCalificaciones.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_relaciones.FrmContenidos.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_relaciones.FrmMatriculacion.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade.Properties.Resources.resources
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.GenerateResource.cache
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade.GeneratedMSBuildEditorConfig.editorconfig
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade.AssemblyInfoInputs.cache
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade.AssemblyInfo.cs
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.CoreCompileInputs.cache
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade.csproj.Up2Date
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\refint\EduGrade.dll
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade.pdb
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\EduGrade.genruntimeconfig.cache
+I:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade - copia elaborada\EduGrade\obj\Debug\net9.0-windows\ref\EduGrade.dll
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_individual.FrmAlumnos.resources
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_individual.FrmCursos.resources
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_individual.FrmModulos.resources
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_relaciones.FrmCalificaciones.resources
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_relaciones.FrmContenidos.resources
+E:\Curso_DAM_01\-WIPs-\Proyecto_EduGrade\EduGrade\obj\Debug\net9.0-windows\EduGrade._01view.manejo_relaciones.FrmMatriculacion.resources

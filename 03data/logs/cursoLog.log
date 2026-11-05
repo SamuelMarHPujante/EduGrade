@@ -1,0 +1,150 @@
+29/05/2026 19:09:58 [Nota] 	Petición de lista: "select * from curso order by codigo"
+29/05/2026 19:09:58 [Nota] 	-- [1] Ciberseguridad
+29/05/2026 19:09:58 [Nota] 	-- [2] 1º DAM
+29/05/2026 19:09:58 [Nota] 	-- [3] Marketing
+29/05/2026 19:09:58 [Nota] 	-- [4] 2º ASIR
+29/05/2026 19:09:58 [Nota] 	-- [5] Laboratorio Clínico
+29/05/2026 19:09:58 [Nota] 	-- [6] 2º DAW
+29/05/2026 19:09:58 [Nota] 	-- [7] 1º ASIR
+29/05/2026 19:09:58 [Nota] 	-- [8] Mecatrónica Industrial
+29/05/2026 19:09:58 [Nota] 	-- [9] 2º DAM
+29/05/2026 19:09:58 [Nota] 	-- [10] Administración y Finanzas
+29/05/2026 19:09:58 [Nota] 	-- [11] 1º DAW
+29/05/2026 19:09:58 [Nota] 	Fila 0 seleccionada
+29/05/2026 19:09:58 [Nota] 	[] 
+29/05/2026 19:09:58 [Nota] 	Dato copiado a "txtCodigo": "1"
+29/05/2026 19:09:58 [Nota] 	Dato copiado a "txtNombre": "Ciberseguridad"
+29/05/2026 19:09:58 [Nota] 	Tabla "curso" refrescada
+29/05/2026 19:09:58 [Nota] 	Evento "System.Action" enlazado a botón "btnPrimero"
+29/05/2026 19:09:58 [Nota] 	Evento "System.Action" enlazado a botón "btnAnterior"
+29/05/2026 19:09:58 [Nota] 	Evento "System.Action" enlazado a botón "btnSiguiente"
+29/05/2026 19:09:58 [Nota] 	Evento "System.Action" enlazado a botón "btnUltimo"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a botón "btnInsertar"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrar"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a botón "btnEditar"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a botón "btnBuscar"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarCodigo"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarNombre"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarTodo"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarCodigo"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarNombre"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarTodo"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a botón "btnAbrirLog"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarLog"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescar"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a texto "txtCodigo"
+29/05/2026 19:09:59 [Nota] 	Evento "System.Action" enlazado a texto "txtNombre"
+29/05/2026 19:09:59 [Nota] 	"cbxCopiarTodo" alterado a "True"
+29/05/2026 19:09:59 [Nota] 	"cbxBorrarTodo" alterado a "False"
+29/05/2026 19:09:59 [Nota] 	Conexión exitosa
+29/05/2026 19:10:09 [Nota] 	Petición de lista: "select * from curso order by codigo"
+29/05/2026 19:10:10 [Nota] 	-- [1] Ciberseguridad
+29/05/2026 19:10:10 [Nota] 	-- [2] 1º DAM
+29/05/2026 19:10:10 [Nota] 	-- [3] Marketing
+29/05/2026 19:10:10 [Nota] 	-- [4] 2º ASIR
+29/05/2026 19:10:10 [Nota] 	-- [5] Laboratorio Clínico
+29/05/2026 19:10:10 [Nota] 	-- [6] 2º DAW
+29/05/2026 19:10:10 [Nota] 	-- [7] 1º ASIR
+29/05/2026 19:10:10 [Nota] 	-- [8] Mecatrónica Industrial
+29/05/2026 19:10:10 [Nota] 	-- [9] 2º DAM
+29/05/2026 19:10:10 [Nota] 	-- [10] Administración y Finanzas
+29/05/2026 19:10:10 [Nota] 	-- [11] 1º DAW
+29/05/2026 19:10:21 [Nota] 	Petición de lista: "select * from curso order by codigo"
+29/05/2026 19:10:21 [Nota] 	-- [1] Ciberseguridad
+29/05/2026 19:10:21 [Nota] 	-- [2] 1º DAM
+29/05/2026 19:10:21 [Nota] 	-- [3] Marketing
+29/05/2026 19:10:21 [Nota] 	-- [4] 2º ASIR
+29/05/2026 19:10:21 [Nota] 	-- [5] Laboratorio Clínico
+29/05/2026 19:10:21 [Nota] 	-- [6] 2º DAW
+29/05/2026 19:10:21 [Nota] 	-- [7] 1º ASIR
+29/05/2026 19:10:21 [Nota] 	-- [8] Mecatrónica Industrial
+29/05/2026 19:10:21 [Nota] 	-- [9] 2º DAM
+29/05/2026 19:10:22 [Nota] 	-- [10] Administración y Finanzas
+29/05/2026 19:10:22 [Nota] 	-- [11] 1º DAW
+29/05/2026 19:26:45 [Nota] 	Petición de lista: "select * from curso order by codigo"
+29/05/2026 19:26:45 [Nota] 	-- [1] Ciberseguridad
+29/05/2026 19:26:45 [Nota] 	-- [2] 1º DAM
+29/05/2026 19:26:45 [Nota] 	-- [3] Marketing
+29/05/2026 19:26:45 [Nota] 	-- [4] 2º ASIR
+29/05/2026 19:26:45 [Nota] 	-- [5] Laboratorio Clínico
+29/05/2026 19:26:45 [Nota] 	-- [6] 2º DAW
+29/05/2026 19:26:45 [Nota] 	-- [7] 1º ASIR
+29/05/2026 19:26:45 [Nota] 	-- [8] Mecatrónica Industrial
+29/05/2026 19:26:45 [Nota] 	-- [9] 2º DAM
+29/05/2026 19:26:45 [Nota] 	-- [10] Administración y Finanzas
+29/05/2026 19:26:45 [Nota] 	-- [11] 1º DAW
+29/05/2026 19:26:45 [Nota] 	Fila 0 seleccionada
+29/05/2026 19:26:45 [Nota] 	[] 
+29/05/2026 19:26:45 [Nota] 	Dato copiado a "txtCodigo": "1"
+29/05/2026 19:26:45 [Nota] 	Dato copiado a "txtNombre": "Ciberseguridad"
+29/05/2026 19:26:45 [Nota] 	Tabla "curso" refrescada
+29/05/2026 19:26:45 [Nota] 	Evento "System.Action" enlazado a botón "btnPrimero"
+29/05/2026 19:26:45 [Nota] 	Evento "System.Action" enlazado a botón "btnAnterior"
+29/05/2026 19:26:45 [Nota] 	Evento "System.Action" enlazado a botón "btnSiguiente"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a botón "btnUltimo"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a botón "btnInsertar"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrar"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a botón "btnEditar"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a botón "btnBuscar"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarCodigo"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarNombre"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a botón "btnCopiarTodo"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarCodigo"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarNombre"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarTodo"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a botón "btnAbrirLog"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarLog"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescar"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a texto "txtCodigo"
+29/05/2026 19:26:46 [Nota] 	Evento "System.Action" enlazado a texto "txtNombre"
+29/05/2026 19:26:46 [Nota] 	"cbxCopiarTodo" alterado a "True"
+29/05/2026 19:26:46 [Nota] 	"cbxBorrarTodo" alterado a "False"
+29/05/2026 19:26:46 [Nota] 	Conexión exitosa
+29/05/2026 19:26:48 [Nota] 	Fila 8 seleccionada
+29/05/2026 19:26:49 [Nota] 	[8] Mecatrónica Industrial
+29/05/2026 19:26:49 [Nota] 	Dato copiado a "txtCodigo": "8"
+29/05/2026 19:26:49 [Nota] 	Dato copiado a "txtNombre": "Mecatrónica Industrial"
+29/05/2026 19:26:49 [Nota] 	Fila 7 seleccionada
+29/05/2026 19:26:49 [Nota] 	[7] 1º ASIR
+29/05/2026 19:26:49 [Nota] 	Dato copiado a "txtCodigo": "7"
+29/05/2026 19:26:49 [Nota] 	Dato copiado a "txtNombre": "1º ASIR"
+29/05/2026 19:26:49 [Nota] 	Fila 5 seleccionada
+29/05/2026 19:26:49 [Nota] 	[5] Laboratorio Clínico
+29/05/2026 19:26:49 [Nota] 	Dato copiado a "txtCodigo": "5"
+29/05/2026 19:26:49 [Nota] 	Dato copiado a "txtNombre": "Laboratorio Clínico"
+29/05/2026 19:26:49 [Nota] 	Fila 5 seleccionada
+29/05/2026 19:26:49 [Nota] 	[5] Laboratorio Clínico
+29/05/2026 19:26:49 [Nota] 	Dato copiado a "txtCodigo": "5"
+29/05/2026 19:26:49 [Nota] 	Dato copiado a "txtNombre": "Laboratorio Clínico"
+29/05/2026 19:26:50 [Nota] 	Fila 7 seleccionada
+29/05/2026 19:26:50 [Nota] 	[7] 1º ASIR
+29/05/2026 19:26:50 [Nota] 	Dato copiado a "txtCodigo": "7"
+29/05/2026 19:26:50 [Nota] 	Dato copiado a "txtNombre": "1º ASIR"
+29/05/2026 19:26:50 [Nota] 	Fila 9 seleccionada
+29/05/2026 19:26:50 [Nota] 	[9] 2º DAM
+29/05/2026 19:26:50 [Nota] 	Dato copiado a "txtCodigo": "9"
+29/05/2026 19:26:50 [Nota] 	Dato copiado a "txtNombre": "2º DAM"
+29/05/2026 19:27:04 [Nota] 	Petición de lista: "select * from curso order by codigo"
+29/05/2026 19:27:04 [Nota] 	-- [1] Ciberseguridad
+29/05/2026 19:27:04 [Nota] 	-- [2] 1º DAM
+29/05/2026 19:27:04 [Nota] 	-- [3] Marketing
+29/05/2026 19:27:04 [Nota] 	-- [4] 2º ASIR
+29/05/2026 19:27:04 [Nota] 	-- [5] Laboratorio Clínico
+29/05/2026 19:27:04 [Nota] 	-- [6] 2º DAW
+29/05/2026 19:27:04 [Nota] 	-- [7] 1º ASIR
+29/05/2026 19:27:04 [Nota] 	-- [8] Mecatrónica Industrial
+29/05/2026 19:27:04 [Nota] 	-- [9] 2º DAM
+29/05/2026 19:27:04 [Nota] 	-- [10] Administración y Finanzas
+29/05/2026 19:27:04 [Nota] 	-- [11] 1º DAW
+29/05/2026 19:27:25 [Nota] 	Petición de lista: "select * from curso order by codigo"
+29/05/2026 19:27:25 [Nota] 	-- [1] Ciberseguridad
+29/05/2026 19:27:25 [Nota] 	-- [2] 1º DAM
+29/05/2026 19:27:25 [Nota] 	-- [3] Marketing
+29/05/2026 19:27:25 [Nota] 	-- [4] 2º ASIR
+29/05/2026 19:27:25 [Nota] 	-- [5] Laboratorio Clínico
+29/05/2026 19:27:25 [Nota] 	-- [6] 2º DAW
+29/05/2026 19:27:25 [Nota] 	-- [7] 1º ASIR
+29/05/2026 19:27:25 [Nota] 	-- [8] Mecatrónica Industrial
+29/05/2026 19:27:26 [Nota] 	-- [9] 2º DAM
+29/05/2026 19:27:26 [Nota] 	-- [10] Administración y Finanzas
+29/05/2026 19:27:26 [Nota] 	-- [11] 1º DAW

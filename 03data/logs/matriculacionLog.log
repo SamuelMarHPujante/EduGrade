@@ -1,0 +1,114 @@
+29/05/2026 19:10:20 [Nota] 	Petición de lista: "select * from cursa order by id"
+29/05/2026 19:10:20 [Nota] 	-- [1] - Alumno 11111111A & curso 2 - Años 2025-2026 - Nota: 8,50
+29/05/2026 19:10:20 [Nota] 	-- [2] - Alumno 22222222B & curso 2 - Años 2025-2026 - Nota: 4,25
+29/05/2026 19:10:20 [Nota] 	-- [3] - Alumno 33333333C & curso 6 - Años 2025-2026 - Nota: 9,10
+29/05/2026 19:10:20 [Nota] 	-- [4] - Alumno 44444444D & curso 1 - Años 2024-2025 - Nota: 7,00
+29/05/2026 19:10:20 [Nota] 	-- [5] - Alumno 55555555E & curso 10 - Años 2025-2026 - Nota: 5,50
+29/05/2026 19:10:20 [Nota] 	-- [6] - Alumno 66666666F & curso 5 - Años 2025-2026 - Nota: 6,80
+29/05/2026 19:10:20 [Nota] 	-- [7] - Alumno 77777777G & curso 11 - Años 2024-2025 - Nota: 3,50
+29/05/2026 19:10:20 [Nota] 	-- [8] - Alumno 88888888H & curso 2 - Años 2025-2026 - Nota: 10,00
+29/05/2026 19:10:20 [Nota] 	-- [9] - Alumno 99999999I & curso 6 - Años 2025-2026 - Nota: 7,20
+29/05/2026 19:10:20 [Nota] 	Tabla relacional cargada con 9 resultados
+29/05/2026 19:10:20 [Nota] 	ID 1 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:10:21 [Nota] 	Tabla dominante cargada con 9 resultados
+29/05/2026 19:10:21 [Nota] 	ID 11111111A copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:10:21 [Nota] 	Petición de lista: "select * from cursa order by id"
+29/05/2026 19:10:21 [Nota] 	-- [1] - Alumno 11111111A & curso 2 - Años 2025-2026 - Nota: 8,50
+29/05/2026 19:10:21 [Nota] 	-- [2] - Alumno 22222222B & curso 2 - Años 2025-2026 - Nota: 4,25
+29/05/2026 19:10:21 [Nota] 	-- [3] - Alumno 33333333C & curso 6 - Años 2025-2026 - Nota: 9,10
+29/05/2026 19:10:21 [Nota] 	-- [4] - Alumno 44444444D & curso 1 - Años 2024-2025 - Nota: 7,00
+29/05/2026 19:10:21 [Nota] 	-- [5] - Alumno 55555555E & curso 10 - Años 2025-2026 - Nota: 5,50
+29/05/2026 19:10:21 [Nota] 	-- [6] - Alumno 66666666F & curso 5 - Años 2025-2026 - Nota: 6,80
+29/05/2026 19:10:21 [Nota] 	-- [7] - Alumno 77777777G & curso 11 - Años 2024-2025 - Nota: 3,50
+29/05/2026 19:10:21 [Nota] 	-- [8] - Alumno 88888888H & curso 2 - Años 2025-2026 - Nota: 10,00
+29/05/2026 19:10:21 [Nota] 	-- [9] - Alumno 99999999I & curso 6 - Años 2025-2026 - Nota: 7,20
+29/05/2026 19:10:21 [Nota] 	Tabla relacional cargada con 9 resultados
+29/05/2026 19:10:21 [Nota] 	ID 1 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:10:22 [Nota] 	Tabla seguidora cargada con 11 resultados
+29/05/2026 19:10:22 [Nota] 	ID 1 copiado a txtSeguidora desde la tabla dgvListaSeguidor.
+29/05/2026 19:10:22 [Nota] 	Petición de lista: "select * from cursa order by id"
+29/05/2026 19:10:22 [Nota] 	-- [1] - Alumno 11111111A & curso 2 - Años 2025-2026 - Nota: 8,50
+29/05/2026 19:10:22 [Nota] 	-- [2] - Alumno 22222222B & curso 2 - Años 2025-2026 - Nota: 4,25
+29/05/2026 19:10:22 [Nota] 	-- [3] - Alumno 33333333C & curso 6 - Años 2025-2026 - Nota: 9,10
+29/05/2026 19:10:22 [Nota] 	-- [4] - Alumno 44444444D & curso 1 - Años 2024-2025 - Nota: 7,00
+29/05/2026 19:10:22 [Nota] 	-- [5] - Alumno 55555555E & curso 10 - Años 2025-2026 - Nota: 5,50
+29/05/2026 19:10:22 [Nota] 	-- [6] - Alumno 66666666F & curso 5 - Años 2025-2026 - Nota: 6,80
+29/05/2026 19:10:22 [Nota] 	-- [7] - Alumno 77777777G & curso 11 - Años 2024-2025 - Nota: 3,50
+29/05/2026 19:10:22 [Nota] 	-- [8] - Alumno 88888888H & curso 2 - Años 2025-2026 - Nota: 10,00
+29/05/2026 19:10:22 [Nota] 	-- [9] - Alumno 99999999I & curso 6 - Años 2025-2026 - Nota: 7,20
+29/05/2026 19:10:22 [Nota] 	Tabla relacional cargada con 9 resultados
+29/05/2026 19:10:22 [Nota] 	ID 1 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a botón "btnVincular"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a botón "btnDesvincular"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescarDominante"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescarSeguidora"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a botón "btnRelacionesDominante"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a botón "btnRelacionesSeguidora"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarDominante"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarSeguidora"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarRelacional"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a botón "btnAbrirLog"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarLog"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a texto "txtRelacion"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a texto "txtDominante"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a texto "txtSeguidora"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a texto "txtAnio"
+29/05/2026 19:10:22 [Nota] 	Evento "System.Action" enlazado a texto "txtNota"
+29/05/2026 19:10:22 [Nota] 	Conexión exitosa
+29/05/2026 19:27:24 [Nota] 	Petición de lista: "select * from cursa order by id"
+29/05/2026 19:27:24 [Nota] 	-- [1] - Alumno 11111111A & curso 2 - Años 2025-2026 - Nota: 8,50
+29/05/2026 19:27:24 [Nota] 	-- [2] - Alumno 22222222B & curso 2 - Años 2025-2026 - Nota: 4,25
+29/05/2026 19:27:24 [Nota] 	-- [3] - Alumno 33333333C & curso 6 - Años 2025-2026 - Nota: 9,10
+29/05/2026 19:27:24 [Nota] 	-- [4] - Alumno 44444444D & curso 1 - Años 2024-2025 - Nota: 7,00
+29/05/2026 19:27:24 [Nota] 	-- [5] - Alumno 55555555E & curso 10 - Años 2025-2026 - Nota: 5,50
+29/05/2026 19:27:24 [Nota] 	-- [6] - Alumno 66666666F & curso 5 - Años 2025-2026 - Nota: 6,80
+29/05/2026 19:27:24 [Nota] 	-- [7] - Alumno 77777777G & curso 11 - Años 2024-2025 - Nota: 3,50
+29/05/2026 19:27:24 [Nota] 	-- [8] - Alumno 88888888H & curso 2 - Años 2025-2026 - Nota: 10,00
+29/05/2026 19:27:24 [Nota] 	-- [9] - Alumno 99999999I & curso 6 - Años 2025-2026 - Nota: 7,20
+29/05/2026 19:27:24 [Nota] 	Tabla relacional cargada con 9 resultados
+29/05/2026 19:27:24 [Nota] 	ID 1 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:27:25 [Nota] 	Tabla dominante cargada con 9 resultados
+29/05/2026 19:27:25 [Nota] 	ID 11111111A copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:27:25 [Nota] 	Petición de lista: "select * from cursa order by id"
+29/05/2026 19:27:25 [Nota] 	-- [1] - Alumno 11111111A & curso 2 - Años 2025-2026 - Nota: 8,50
+29/05/2026 19:27:25 [Nota] 	-- [2] - Alumno 22222222B & curso 2 - Años 2025-2026 - Nota: 4,25
+29/05/2026 19:27:25 [Nota] 	-- [3] - Alumno 33333333C & curso 6 - Años 2025-2026 - Nota: 9,10
+29/05/2026 19:27:25 [Nota] 	-- [4] - Alumno 44444444D & curso 1 - Años 2024-2025 - Nota: 7,00
+29/05/2026 19:27:25 [Nota] 	-- [5] - Alumno 55555555E & curso 10 - Años 2025-2026 - Nota: 5,50
+29/05/2026 19:27:25 [Nota] 	-- [6] - Alumno 66666666F & curso 5 - Años 2025-2026 - Nota: 6,80
+29/05/2026 19:27:25 [Nota] 	-- [7] - Alumno 77777777G & curso 11 - Años 2024-2025 - Nota: 3,50
+29/05/2026 19:27:25 [Nota] 	-- [8] - Alumno 88888888H & curso 2 - Años 2025-2026 - Nota: 10,00
+29/05/2026 19:27:25 [Nota] 	-- [9] - Alumno 99999999I & curso 6 - Años 2025-2026 - Nota: 7,20
+29/05/2026 19:27:25 [Nota] 	Tabla relacional cargada con 9 resultados
+29/05/2026 19:27:25 [Nota] 	ID 1 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:27:26 [Nota] 	Tabla seguidora cargada con 11 resultados
+29/05/2026 19:27:26 [Nota] 	ID 1 copiado a txtSeguidora desde la tabla dgvListaSeguidor.
+29/05/2026 19:27:26 [Nota] 	Petición de lista: "select * from cursa order by id"
+29/05/2026 19:27:26 [Nota] 	-- [1] - Alumno 11111111A & curso 2 - Años 2025-2026 - Nota: 8,50
+29/05/2026 19:27:26 [Nota] 	-- [2] - Alumno 22222222B & curso 2 - Años 2025-2026 - Nota: 4,25
+29/05/2026 19:27:26 [Nota] 	-- [3] - Alumno 33333333C & curso 6 - Años 2025-2026 - Nota: 9,10
+29/05/2026 19:27:26 [Nota] 	-- [4] - Alumno 44444444D & curso 1 - Años 2024-2025 - Nota: 7,00
+29/05/2026 19:27:26 [Nota] 	-- [5] - Alumno 55555555E & curso 10 - Años 2025-2026 - Nota: 5,50
+29/05/2026 19:27:26 [Nota] 	-- [6] - Alumno 66666666F & curso 5 - Años 2025-2026 - Nota: 6,80
+29/05/2026 19:27:26 [Nota] 	-- [7] - Alumno 77777777G & curso 11 - Años 2024-2025 - Nota: 3,50
+29/05/2026 19:27:26 [Nota] 	-- [8] - Alumno 88888888H & curso 2 - Años 2025-2026 - Nota: 10,00
+29/05/2026 19:27:26 [Nota] 	-- [9] - Alumno 99999999I & curso 6 - Años 2025-2026 - Nota: 7,20
+29/05/2026 19:27:26 [Nota] 	Tabla relacional cargada con 9 resultados
+29/05/2026 19:27:26 [Nota] 	ID 1 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a botón "btnVincular"
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a botón "btnDesvincular"
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescarDominante"
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescarSeguidora"
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a botón "btnRelacionesDominante"
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a botón "btnRelacionesSeguidora"
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarDominante"
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarSeguidora"
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarRelacional"
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a botón "btnAbrirLog"
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarLog"
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a texto "txtRelacion"
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a texto "txtDominante"
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a texto "txtSeguidora"
+29/05/2026 19:27:26 [Nota] 	Evento "System.Action" enlazado a texto "txtAnio"
+29/05/2026 19:27:27 [Nota] 	Evento "System.Action" enlazado a texto "txtNota"
+29/05/2026 19:27:27 [Nota] 	Conexión exitosa

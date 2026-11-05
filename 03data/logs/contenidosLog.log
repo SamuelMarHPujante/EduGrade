@@ -1,0 +1,153 @@
+29/05/2026 19:10:09 [Nota] 	Petición de lista: "select * from contiene order by id"
+29/05/2026 19:10:09 [Nota] 	-- [1] - Módulo 104 & curso 1
+29/05/2026 19:10:09 [Nota] 	-- [2] - Módulo 105 & curso 1
+29/05/2026 19:10:09 [Nota] 	-- [3] - Módulo 101 & curso 2
+29/05/2026 19:10:09 [Nota] 	-- [4] - Módulo 103 & curso 2
+29/05/2026 19:10:09 [Nota] 	-- [5] - Módulo 101 & curso 6
+29/05/2026 19:10:09 [Nota] 	-- [6] - Módulo 103 & curso 6
+29/05/2026 19:10:09 [Nota] 	-- [7] - Módulo 106 & curso 10
+29/05/2026 19:10:09 [Nota] 	-- [8] - Módulo 107 & curso 5
+29/05/2026 19:10:09 [Nota] 	-- [9] - Módulo 108 & curso 2
+29/05/2026 19:10:09 [Nota] 	-- [10] - Módulo 108 & curso 11
+29/05/2026 19:10:09 [Nota] 	-- [11] - Módulo 102 & curso 11
+29/05/2026 19:10:09 [Nota] 	-- [12] - Módulo 102 & curso 2
+29/05/2026 19:10:09 [Nota] 	-- [13] - Módulo 101 & curso 11
+29/05/2026 19:10:09 [Nota] 	-- [14] - Módulo 103 & curso 11
+29/05/2026 19:10:09 [Nota] 	Tabla relacional cargada con 14 resultados
+29/05/2026 19:10:09 [Nota] 	ID 1 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:10:10 [Nota] 	Tabla dominante cargada con 11 resultados
+29/05/2026 19:10:10 [Nota] 	ID 1 copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:10:10 [Nota] 	Petición de lista: "select * from contiene order by id"
+29/05/2026 19:10:10 [Nota] 	-- [1] - Módulo 104 & curso 1
+29/05/2026 19:10:10 [Nota] 	-- [2] - Módulo 105 & curso 1
+29/05/2026 19:10:10 [Nota] 	-- [3] - Módulo 101 & curso 2
+29/05/2026 19:10:10 [Nota] 	-- [4] - Módulo 103 & curso 2
+29/05/2026 19:10:10 [Nota] 	-- [5] - Módulo 101 & curso 6
+29/05/2026 19:10:10 [Nota] 	-- [6] - Módulo 103 & curso 6
+29/05/2026 19:10:10 [Nota] 	-- [7] - Módulo 106 & curso 10
+29/05/2026 19:10:10 [Nota] 	-- [8] - Módulo 107 & curso 5
+29/05/2026 19:10:10 [Nota] 	-- [9] - Módulo 108 & curso 2
+29/05/2026 19:10:10 [Nota] 	-- [10] - Módulo 108 & curso 11
+29/05/2026 19:10:10 [Nota] 	-- [11] - Módulo 102 & curso 11
+29/05/2026 19:10:10 [Nota] 	-- [12] - Módulo 102 & curso 2
+29/05/2026 19:10:10 [Nota] 	-- [13] - Módulo 101 & curso 11
+29/05/2026 19:10:10 [Nota] 	-- [14] - Módulo 103 & curso 11
+29/05/2026 19:10:10 [Nota] 	Tabla relacional cargada con 14 resultados
+29/05/2026 19:10:10 [Nota] 	ID 1 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:10:11 [Nota] 	Tabla seguidora cargada con 8 resultados
+29/05/2026 19:10:11 [Nota] 	ID 101 copiado a txtSeguidora desde la tabla dgvListaSeguidor.
+29/05/2026 19:10:11 [Nota] 	Petición de lista: "select * from contiene order by id"
+29/05/2026 19:10:11 [Nota] 	-- [1] - Módulo 104 & curso 1
+29/05/2026 19:10:11 [Nota] 	-- [2] - Módulo 105 & curso 1
+29/05/2026 19:10:11 [Nota] 	-- [3] - Módulo 101 & curso 2
+29/05/2026 19:10:11 [Nota] 	-- [4] - Módulo 103 & curso 2
+29/05/2026 19:10:11 [Nota] 	-- [5] - Módulo 101 & curso 6
+29/05/2026 19:10:11 [Nota] 	-- [6] - Módulo 103 & curso 6
+29/05/2026 19:10:11 [Nota] 	-- [7] - Módulo 106 & curso 10
+29/05/2026 19:10:11 [Nota] 	-- [8] - Módulo 107 & curso 5
+29/05/2026 19:10:11 [Nota] 	-- [9] - Módulo 108 & curso 2
+29/05/2026 19:10:11 [Nota] 	-- [10] - Módulo 108 & curso 11
+29/05/2026 19:10:11 [Nota] 	-- [11] - Módulo 102 & curso 11
+29/05/2026 19:10:11 [Nota] 	-- [12] - Módulo 102 & curso 2
+29/05/2026 19:10:11 [Nota] 	-- [13] - Módulo 101 & curso 11
+29/05/2026 19:10:11 [Nota] 	-- [14] - Módulo 103 & curso 11
+29/05/2026 19:10:11 [Nota] 	Tabla relacional cargada con 14 resultados
+29/05/2026 19:10:11 [Nota] 	ID 1 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:10:11 [Nota] 	Evento "System.Action" enlazado a botón "btnVincular"
+29/05/2026 19:10:11 [Nota] 	Evento "System.Action" enlazado a botón "btnDesvincular"
+29/05/2026 19:10:11 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescarDominante"
+29/05/2026 19:10:11 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescarSeguidora"
+29/05/2026 19:10:11 [Nota] 	Evento "System.Action" enlazado a botón "btnRelacionesDominante"
+29/05/2026 19:10:12 [Nota] 	Evento "System.Action" enlazado a botón "btnRelacionesSeguidora"
+29/05/2026 19:10:12 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarDominante"
+29/05/2026 19:10:12 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarSeguidora"
+29/05/2026 19:10:12 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarRelacional"
+29/05/2026 19:10:12 [Nota] 	Evento "System.Action" enlazado a botón "btnAbrirLog"
+29/05/2026 19:10:12 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarLog"
+29/05/2026 19:10:12 [Nota] 	Evento "System.Action" enlazado a texto "txtRelacion"
+29/05/2026 19:10:12 [Nota] 	Evento "System.Action" enlazado a texto "txtDominante"
+29/05/2026 19:10:12 [Nota] 	Evento "System.Action" enlazado a texto "txtSeguidora"
+29/05/2026 19:10:12 [Nota] 	Conexión exitosa
+29/05/2026 19:27:03 [Nota] 	Petición de lista: "select * from contiene order by id"
+29/05/2026 19:27:03 [Nota] 	-- [1] - Módulo 104 & curso 1
+29/05/2026 19:27:03 [Nota] 	-- [2] - Módulo 105 & curso 1
+29/05/2026 19:27:03 [Nota] 	-- [3] - Módulo 101 & curso 2
+29/05/2026 19:27:03 [Nota] 	-- [4] - Módulo 103 & curso 2
+29/05/2026 19:27:03 [Nota] 	-- [5] - Módulo 101 & curso 6
+29/05/2026 19:27:03 [Nota] 	-- [6] - Módulo 103 & curso 6
+29/05/2026 19:27:03 [Nota] 	-- [7] - Módulo 106 & curso 10
+29/05/2026 19:27:03 [Nota] 	-- [8] - Módulo 107 & curso 5
+29/05/2026 19:27:03 [Nota] 	-- [9] - Módulo 108 & curso 2
+29/05/2026 19:27:03 [Nota] 	-- [10] - Módulo 108 & curso 11
+29/05/2026 19:27:03 [Nota] 	-- [11] - Módulo 102 & curso 11
+29/05/2026 19:27:03 [Nota] 	-- [12] - Módulo 102 & curso 2
+29/05/2026 19:27:03 [Nota] 	-- [13] - Módulo 101 & curso 11
+29/05/2026 19:27:03 [Nota] 	-- [14] - Módulo 103 & curso 11
+29/05/2026 19:27:04 [Nota] 	Tabla relacional cargada con 14 resultados
+29/05/2026 19:27:04 [Nota] 	ID 1 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:27:04 [Nota] 	Tabla dominante cargada con 11 resultados
+29/05/2026 19:27:04 [Nota] 	ID 1 copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:27:04 [Nota] 	Petición de lista: "select * from contiene order by id"
+29/05/2026 19:27:04 [Nota] 	-- [1] - Módulo 104 & curso 1
+29/05/2026 19:27:04 [Nota] 	-- [2] - Módulo 105 & curso 1
+29/05/2026 19:27:04 [Nota] 	-- [3] - Módulo 101 & curso 2
+29/05/2026 19:27:04 [Nota] 	-- [4] - Módulo 103 & curso 2
+29/05/2026 19:27:04 [Nota] 	-- [5] - Módulo 101 & curso 6
+29/05/2026 19:27:04 [Nota] 	-- [6] - Módulo 103 & curso 6
+29/05/2026 19:27:04 [Nota] 	-- [7] - Módulo 106 & curso 10
+29/05/2026 19:27:04 [Nota] 	-- [8] - Módulo 107 & curso 5
+29/05/2026 19:27:04 [Nota] 	-- [9] - Módulo 108 & curso 2
+29/05/2026 19:27:04 [Nota] 	-- [10] - Módulo 108 & curso 11
+29/05/2026 19:27:04 [Nota] 	-- [11] - Módulo 102 & curso 11
+29/05/2026 19:27:05 [Nota] 	-- [12] - Módulo 102 & curso 2
+29/05/2026 19:27:05 [Nota] 	-- [13] - Módulo 101 & curso 11
+29/05/2026 19:27:05 [Nota] 	-- [14] - Módulo 103 & curso 11
+29/05/2026 19:27:05 [Nota] 	Tabla relacional cargada con 14 resultados
+29/05/2026 19:27:05 [Nota] 	ID 1 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:27:05 [Nota] 	Tabla seguidora cargada con 8 resultados
+29/05/2026 19:27:05 [Nota] 	ID 101 copiado a txtSeguidora desde la tabla dgvListaSeguidor.
+29/05/2026 19:27:05 [Nota] 	Petición de lista: "select * from contiene order by id"
+29/05/2026 19:27:05 [Nota] 	-- [1] - Módulo 104 & curso 1
+29/05/2026 19:27:05 [Nota] 	-- [2] - Módulo 105 & curso 1
+29/05/2026 19:27:05 [Nota] 	-- [3] - Módulo 101 & curso 2
+29/05/2026 19:27:05 [Nota] 	-- [4] - Módulo 103 & curso 2
+29/05/2026 19:27:05 [Nota] 	-- [5] - Módulo 101 & curso 6
+29/05/2026 19:27:06 [Nota] 	-- [6] - Módulo 103 & curso 6
+29/05/2026 19:27:06 [Nota] 	-- [7] - Módulo 106 & curso 10
+29/05/2026 19:27:06 [Nota] 	-- [8] - Módulo 107 & curso 5
+29/05/2026 19:27:06 [Nota] 	-- [9] - Módulo 108 & curso 2
+29/05/2026 19:27:06 [Nota] 	-- [10] - Módulo 108 & curso 11
+29/05/2026 19:27:06 [Nota] 	-- [11] - Módulo 102 & curso 11
+29/05/2026 19:27:06 [Nota] 	-- [12] - Módulo 102 & curso 2
+29/05/2026 19:27:06 [Nota] 	-- [13] - Módulo 101 & curso 11
+29/05/2026 19:27:06 [Nota] 	-- [14] - Módulo 103 & curso 11
+29/05/2026 19:27:06 [Nota] 	Tabla relacional cargada con 14 resultados
+29/05/2026 19:27:06 [Nota] 	ID 1 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:27:06 [Nota] 	Evento "System.Action" enlazado a botón "btnVincular"
+29/05/2026 19:27:06 [Nota] 	Evento "System.Action" enlazado a botón "btnDesvincular"
+29/05/2026 19:27:06 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescarDominante"
+29/05/2026 19:27:06 [Nota] 	Evento "System.Action" enlazado a botón "btnRefrescarSeguidora"
+29/05/2026 19:27:06 [Nota] 	Evento "System.Action" enlazado a botón "btnRelacionesDominante"
+29/05/2026 19:27:06 [Nota] 	Evento "System.Action" enlazado a botón "btnRelacionesSeguidora"
+29/05/2026 19:27:06 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarDominante"
+29/05/2026 19:27:06 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarSeguidora"
+29/05/2026 19:27:06 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarRelacional"
+29/05/2026 19:27:06 [Nota] 	Evento "System.Action" enlazado a botón "btnAbrirLog"
+29/05/2026 19:27:06 [Nota] 	Evento "System.Action" enlazado a botón "btnBorrarLog"
+29/05/2026 19:27:06 [Nota] 	Evento "System.Action" enlazado a texto "txtRelacion"
+29/05/2026 19:27:06 [Nota] 	Evento "System.Action" enlazado a texto "txtDominante"
+29/05/2026 19:27:06 [Nota] 	Evento "System.Action" enlazado a texto "txtSeguidora"
+29/05/2026 19:27:06 [Nota] 	Conexión exitosa
+29/05/2026 19:27:07 [Nota] 	ID 106 copiado a txtSeguidora desde la tabla dgvListaSeguidor.
+29/05/2026 19:27:09 [Nota] 	ID 104 copiado a txtSeguidora desde la tabla dgvListaSeguidor.
+29/05/2026 19:27:10 [Nota] 	ID 3 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:27:10 [Nota] 	ID 6 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:27:11 [Nota] 	ID 7 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:27:11 [Nota] 	ID 3 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:27:11 [Nota] 	ID 1 copiado a txtRelacion desde la tabla dgvListaRelaciones.
+29/05/2026 19:27:12 [Nota] 	ID 11 copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:27:13 [Nota] 	ID 8 copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:27:13 [Nota] 	ID 7 copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:27:14 [Nota] 	ID 4 copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:27:14 [Nota] 	ID 2 copiado a txtDominante desde la tabla dgvListaDominante.
+29/05/2026 19:27:14 [Nota] 	ID 1 copiado a txtDominante desde la tabla dgvListaDominante.
