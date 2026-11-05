@@ -1,0 +1,242 @@
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+DROP TABLE IF EXISTS califica;
+DROP TABLE IF EXISTS contiene;
+DROP TABLE IF EXISTS cursa;
+DROP TABLE IF EXISTS trimestre;
+DROP TABLE IF EXISTS modulo;
+DROP TABLE IF EXISTS curso;
+DROP TABLE IF EXISTS alumno;
+
+--
+-- Base de datos: edugrade
+--
+
+-- --------------------------------------------------------
+
+--
+-- --------------------------------------------------------
+-- ENTIDADES INDEPENDIENTES
+-- --------------------------------------------------------
+--
+
+CREATE TABLE alumno (
+	dni VARCHAR(9) NOT NULL DEFAULT '0',
+	nombre VARCHAR(20) NOT NULL DEFAULT '',
+	apellidos VARCHAR(30) NOT NULL DEFAULT '',
+	telefono VARCHAR(9) DEFAULT NULL,
+ 	poblacion VARCHAR(20) NOT NULL DEFAULT '',
+
+	CONSTRAINT pk_alumno PRIMARY KEY(dni)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+-- --------------------------------------------------------
+
+CREATE TABLE curso (
+	codigo NUMERIC(11) NOT NULL DEFAULT '00000000000',
+	nombre VARCHAR(50) NOT NULL DEFAULT '',
+
+	CONSTRAINT pk_curso PRIMARY KEY(codigo),
+	CONSTRAINT ck_codigo CHECK(codigo BETWEEN 00000000000 AND 99999999999),
+	CONSTRAINT ck_nombre UNIQUE(nombre)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+-- --------------------------------------------------------
+
+CREATE TABLE modulo (
+	codigo NUMERIC(11) NOT NULL DEFAULT '00000000000',
+	nombre VARCHAR(30) NOT NULL DEFAULT '',
+	n_practicas NUMERIC(2) NOT NULL DEFAULT '00',
+	n_examenes NUMERIC(2) NOT NULL DEFAULT '00',
+
+	CONSTRAINT pk_modulo PRIMARY KEY(codigo),
+	CONSTRAINT ck_n_practicas CHECK(n_practicas BETWEEN 00 AND 99),
+	CONSTRAINT ck_n_examenes CHECK(n_examenes BETWEEN 00 AND 99)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+-- --------------------------------------------------------
+
+CREATE TABLE trimestre (
+	codigo NUMERIC(1) NOT NULL DEFAULT '0',
+
+	CONSTRAINT pk_trimestre PRIMARY KEY(codigo),
+	CONSTRAINT ck_codigo CHECK(codigo BETWEEN 0 AND 3)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+--
+-- --------------------------------------------------------
+-- TABLAS DE RELACIÓN
+-- --------------------------------------------------------
+--
+
+CREATE TABLE cursa (
+	id INT AUTO_INCREMENT,
+
+	dni_alumno VARCHAR(9) NOT NULL DEFAULT '0',
+	codigo_curso NUMERIC(11) NOT NULL DEFAULT '00000000000',
+	anio VARCHAR(9) NOT NULL DEFAULT '0000-0000', -- Formato "2025-2026"
+	nota DECIMAL(4, 2) NOT NULL DEFAULT 0.00,
+
+	CONSTRAINT pk_cursa PRIMARY KEY(id),
+
+	CONSTRAINT fk_cursa_alumno FOREIGN KEY (dni_alumno) REFERENCES alumno(dni),
+	CONSTRAINT fk_cursa_curso FOREIGN KEY (codigo_curso) REFERENCES curso(codigo),
+
+	CONSTRAINT ck_anio CHECK (anio LIKE '____-____'),
+	CONSTRAINT ck_nota_cursa CHECK(nota BETWEEN 0.00 AND 10.00)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+-- --------------------------------------------------------
+
+CREATE TABLE contiene (
+	id INT AUTO_INCREMENT,
+	
+	codigo_curso NUMERIC(11) NOT NULL DEFAULT '00000000000',
+	codigo_modulo NUMERIC(11) NOT NULL DEFAULT '00000000000',
+
+	CONSTRAINT pk_contiene PRIMARY KEY(id),
+
+	CONSTRAINT fk_cont_curso FOREIGN KEY (codigo_curso) REFERENCES curso(codigo),
+	CONSTRAINT fk_cont_modulo FOREIGN KEY (codigo_modulo) REFERENCES modulo(codigo)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+-- --------------------------------------------------------
+
+CREATE TABLE califica (
+	id INT AUTO_INCREMENT,
+	dni_alumno VARCHAR(9) NOT NULL DEFAULT '0',
+	codigo_modulo NUMERIC(11) NOT NULL DEFAULT '00000000000',
+	codigo_trimestre NUMERIC(1) NOT NULL DEFAULT '0',
+	nota DECIMAL(4, 2) NOT NULL DEFAULT 0.00,
+	tipo VARCHAR(20) NOT NULL DEFAULT 'Práctica', -- Solo 'Práctica' o 'Examen'
+	
+	CONSTRAINT pk_califica PRIMARY KEY(id),
+
+	CONSTRAINT fk_cal_alumno FOREIGN KEY (dni_alumno) REFERENCES alumno(dni),
+	CONSTRAINT fk_cal_modulo FOREIGN KEY (codigo_modulo) REFERENCES modulo(codigo),
+
+	CONSTRAINT ck_trimestre CHECK(codigo_trimestre BETWEEN 0 AND 3),
+	CONSTRAINT fk_cal_trimestre FOREIGN KEY (codigo_trimestre) REFERENCES trimestre(codigo),
+
+	CONSTRAINT ck_nota_cal CHECK(nota BETWEEN 0.00 AND 10.00),	
+	CONSTRAINT ck_tipo CHECK (tipo IN ('Práctica', 'Examen'))
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+
+
+--
+-- --------------------------------------------------------
+-- Volcado de datos para las entidades independientes
+-- --------------------------------------------------------
+--
+
+INSERT INTO alumno (dni, nombre, apellidos, telefono, poblacion) VALUES
+('11111111A', 'Vicente', 'Martínez Martínez', '964567899', 'San Juan'),
+('22222222B', 'Roberto', 'Hidalgo García', '965567898', 'Muchamiel'),
+('33333333C', 'Sergio', 'Murcia Pérez', '966787777', 'Villafranqueza'),
+('44444444D', 'Asunción', 'Pérez Pérez', '965325476', 'Campello'),
+('55555555E', 'Juan Jose', 'Guarinos Huesca', '965995687', 'Alicante'),
+('66666666F', 'Alicia', 'Pérez Herrero', '966788887', 'Alicante'),
+('77777777G', 'Jose', 'Martínez Pujol', '966799999', 'San Juan'),
+('88888888H', 'Antonio', 'Onrrubia Pérez', '966788888', 'San Vicente'),
+('99999999I', 'Laura', 'Vegara Garcia', '966787777', 'Agost');
+
+-- --------------------------------------------------------
+
+INSERT INTO curso (codigo, nombre) VALUES
+(1, 'Ciberseguridad'),
+(2, '1º DAM'),
+(3, 'Marketing'),
+(4, '2º ASIR'),
+(5, 'Laboratorio Clínico'),
+(6, '2º DAW'),
+(7, '1º ASIR'),
+(8, 'Mecatrónica Industrial'),
+(9, '2º DAM'),
+(10, 'Administración y Finanzas'),
+(11, '1º DAW');
+
+-- --------------------------------------------------------
+
+INSERT INTO modulo (codigo, nombre, n_practicas, n_examenes) VALUES
+(101, 'Bases de Datos', 5, 2),
+(102, 'Sistemas Informáticos', 4, 3),
+(103, 'Programación', 8, 4),
+(104, 'Seguridad Lógica', 3, 2),
+(105, 'Redes Locales', 6, 2),
+(106, 'Gestión Financiera', 2, 3),
+(107, 'Bioquímica Clínica', 10, 2);
+
+-- --------------------------------------------------------
+
+INSERT INTO trimestre (codigo) VALUES (1), (2), (3);
+
+
+
+--
+-- --------------------------------------------------------
+-- Volcado de datos para las tablas de relación
+-- --------------------------------------------------------
+--
+
+INSERT INTO contiene (codigo_curso, codigo_modulo) VALUES
+(1, 104), (1, 105), -- Ciberseguridad
+(2, 101), (2, 103), -- 1º DAM
+(6, 101), (6, 103), -- 2º DAW
+(10, 106),          -- Administración y Finanzas
+(5, 107);           -- Laboratorio Clínico
+
+-- --------------------------------------------------------
+
+INSERT INTO cursa (dni_alumno, codigo_curso, anio, nota) VALUES
+('11111111A', 2, '2025-2026', 8.50),
+('22222222B', 2, '2025-2026', 4.25),
+('33333333C', 6, '2025-2026', 9.10),
+('44444444D', 1, '2024-2025', 7.00),
+('55555555E', 10, '2025-2026', 5.50),
+('66666666F', 5, '2025-2026', 6.80),
+('77777777G', 11, '2024-2025', 3.50),
+('88888888H', 2, '2025-2026', 10.00),
+('99999999I', 6, '2025-2026', 7.20);
+
+-- --------------------------------------------------------
+
+INSERT INTO califica (dni_alumno, codigo_modulo, codigo_trimestre, nota, tipo) VALUES
+-- Vicente (11111111A) en Bases de Datos
+('11111111A', 101, 1, 9.50, 'Examen'),
+('11111111A', 101, 1, 8.00, 'Práctica'),
+('11111111A', 101, 2, 7.50, 'Examen'),
+
+-- Roberto (22222222B) en Bases de Datos (va regular)
+('22222222B', 101, 1, 3.00, 'Examen'),
+('22222222B', 101, 1, 5.50, 'Práctica'),
+
+-- Sergio (33333333C) en Programación
+('33333333C', 103, 1, 10.00, 'Práctica'),
+('33333333C', 103, 1, 8.75, 'Examen'),
+
+-- Alicia (66666666F) en Bioquímica
+('66666666F', 107, 1, 6.00, 'Examen'),
+('66666666F', 107, 2, 7.20, 'Examen'),
+('66666666F', 107, 2, 9.00, 'Práctica'),
+
+-- Juan Jose (55555555E) en Gestión Financiera
+('55555555E', 106, 1, 5.00, 'Examen'),
+('55555555E', 106, 1, 4.50, 'Práctica');
+
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
