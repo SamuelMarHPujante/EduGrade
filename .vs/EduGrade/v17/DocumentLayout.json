@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legoc\\Desktop\\coding\\EduGrade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BB4AD9-EEA5-4464-8ABF-43A32FF97E90}|EduGrade.csproj|c:\\users\\legoc\\desktop\\coding\\edugrade\\02aplication\\gestion_individual\\gestionalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BB4AD9-EEA5-4464-8ABF-43A32FF97E90}|EduGrade.csproj|solutionrelative:02aplication\\gestion_individual\\gestionalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionAlumnos.cs",
+              "DocumentMoniker": "C:\\Users\\legoc\\Desktop\\coding\\EduGrade\\02aplication\\gestion_individual\\GestionAlumnos.cs",
+              "RelativeDocumentMoniker": "02aplication\\gestion_individual\\GestionAlumnos.cs",
+              "ToolTip": "C:\\Users\\legoc\\Desktop\\coding\\EduGrade\\02aplication\\gestion_individual\\GestionAlumnos.cs",
+              "RelativeToolTip": "02aplication\\gestion_individual\\GestionAlumnos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:39:51.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

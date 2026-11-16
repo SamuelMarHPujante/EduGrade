@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+jmcCNGVDIs=",
+  "dgSpecHash": "/7JwZjh/Ixs=",
   "success": true,
-  "projectFilePath": "D:\\DAM_2025-2027\\Código porpio\\EduGrade personal\\Proyecto_final_EduGrade\\EduGrade\\EduGrade.csproj",
+  "projectFilePath": "C:\\Users\\legoc\\Desktop\\coding\\EduGrade\\EduGrade.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\legoc\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\legoc\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",
