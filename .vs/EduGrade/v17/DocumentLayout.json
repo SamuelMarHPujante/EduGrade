@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\legoc\\Desktop\\coding\\EduGrade\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F7BB4AD9-EEA5-4464-8ABF-43A32FF97E90}|EduGrade.csproj|c:\\users\\legoc\\desktop\\coding\\edugrade\\02aplication\\gestion_relaciones\\gestionrelaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BB4AD9-EEA5-4464-8ABF-43A32FF97E90}|EduGrade.csproj|solutionrelative:02aplication\\gestion_relaciones\\gestionrelaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BB4AD9-EEA5-4464-8ABF-43A32FF97E90}|EduGrade.csproj|c:\\users\\legoc\\desktop\\coding\\edugrade\\02aplication\\gestion_individual\\gestionindividual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7BB4AD9-EEA5-4464-8ABF-43A32FF97E90}|EduGrade.csproj|solutionrelative:02aplication\\gestion_individual\\gestionindividual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7BB4AD9-EEA5-4464-8ABF-43A32FF97E90}|EduGrade.csproj|c:\\users\\legoc\\desktop\\coding\\edugrade\\02aplication\\gestion_individual\\gestionalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7BB4AD9-EEA5-4464-8ABF-43A32FF97E90}|EduGrade.csproj|solutionrelative:02aplication\\gestion_individual\\gestionalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GestionRelaciones.cs",
+              "DocumentMoniker": "C:\\Users\\legoc\\Desktop\\coding\\EduGrade\\02aplication\\gestion_relaciones\\GestionRelaciones.cs",
+              "RelativeDocumentMoniker": "02aplication\\gestion_relaciones\\GestionRelaciones.cs",
+              "ToolTip": "C:\\Users\\legoc\\Desktop\\coding\\EduGrade\\02aplication\\gestion_relaciones\\GestionRelaciones.cs",
+              "RelativeToolTip": "02aplication\\gestion_relaciones\\GestionRelaciones.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:52:33.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionIndividual.cs",
+              "DocumentMoniker": "C:\\Users\\legoc\\Desktop\\coding\\EduGrade\\02aplication\\gestion_individual\\GestionIndividual.cs",
+              "RelativeDocumentMoniker": "02aplication\\gestion_individual\\GestionIndividual.cs",
+              "ToolTip": "C:\\Users\\legoc\\Desktop\\coding\\EduGrade\\02aplication\\gestion_individual\\GestionIndividual.cs",
+              "RelativeToolTip": "02aplication\\gestion_individual\\GestionIndividual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T18:49:21.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GestionAlumnos.cs",
               "DocumentMoniker": "C:\\Users\\legoc\\Desktop\\coding\\EduGrade\\02aplication\\gestion_individual\\GestionAlumnos.cs",
               "RelativeDocumentMoniker": "02aplication\\gestion_individual\\GestionAlumnos.cs",
               "ToolTip": "C:\\Users\\legoc\\Desktop\\coding\\EduGrade\\02aplication\\gestion_individual\\GestionAlumnos.cs",
               "RelativeToolTip": "02aplication\\gestion_individual\\GestionAlumnos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-16T18:39:51.96Z",
               "EditorCaption": ""
